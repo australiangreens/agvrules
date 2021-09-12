@@ -1,0 +1,112 @@
+---
+title: "Part 6: Documentation"
+---
+
+import CBD from './_CannotBeDelegated.mdx';
+
+35. ## Minutes of meetings
+
+    1.  The following party bodies must keep minutes of their
+        meetings:
+
+        <subclause-letters>
+
+        1.  State Council, senior party bodies and branches;
+
+        2.  those that may approve the expenditure of money; and
+
+        3.  others as decided by State Council.
+
+        </subclause-letters>
+
+    2.  Those party bodies, other than State Council, must give
+        their minutes to State Council.
+
+    3.  The minutes of State Council and senior party bodies must:
+
+        <subclause-letters>
+
+        1.  for each substantive proposal passed by consensus—record
+            which members of the party body were in attendance when
+            the proposal was passed;
+
+        2.  for each substantive proposal put to a vote—record how
+            each member voted and who, if anyone, abstained from
+            voting;
+
+        3.  enable a member to understand why each substantive
+            resolution was made; and
+
+        4.  be made within 10 days of the meeting.
+
+        </subclause-letters>
+
+    4.  The minutes of State Council must include new:
+
+        <subclause-letters>
+
+        1.  questions received and answers given under [clause 12](branches#12);
+
+        2.  proposals received and explanations given under
+            [clause 13](branches#13) and [Schedule 2, item 3](schedule-02-joint-branch-proposal-to-state-council#3).
+
+        </subclause-letters>
+
+36. ## Availability of minutes
+
+    1.  State Council must make the minutes of each of its meetings
+        and the meetings of senior party bodies available to
+        members.
+
+    2.  Such minutes may be redacted.
+
+    3.  A redaction, including its expiry note, may be made, amended
+        or removed by:
+
+        <subclause-letters>
+
+        1.  for all minutes—State Council; and
+
+        2.  for the minutes of a senior party body—the senior party
+            body.
+
+        </subclause-letters>
+
+    4.  Each redaction must be accompanied by a note (***expiry
+        note***) that specifies the party body that made or amended
+        the redaction, and that the redaction:
+
+        <subclause-letters>
+
+        1.  expires on a certain date;
+
+        2.  expires on the occurrence of a certain event; or
+
+        3.  does not expire.
+
+        </subclause-letters>
+
+37. ## Handbook
+
+    1.  State Council must keep a handbook (***party handbook***)
+        that clearly sets out the information necessary for a member
+        to understand the internal organisation and operation of the
+        Party, including a list of party offices and the members who
+        hold them, and the members of each party body.
+
+    2.  State Council must make the party handbook available to
+        members.
+
+    3.  If a member gives written notice to State Council that their
+        name must not appear in the party handbook in the list of
+        the members of a party body other than State Council, the
+        party handbook must be amended accordingly.
+
+38. ## Archive
+
+    1.  State Council must keep an archive (***party archive***) of
+        important party information and documentation.
+
+    2.  State Council may make the party archive available to a
+        member subject to any condition or limitation.
+

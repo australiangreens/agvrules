@@ -32,37 +32,51 @@ ol, ol ol, ol ol ol {
 }
 
 subclause-letters ol {
-  list-style-type: lower-alpha;
+  list-style-type: lower-alpha !important;
+}
+
+subclause-letters ol ol {
+  list-style-type: lower-roman !important;
 }
 
 abbr {
   text-decoration: underline dotted #39b54a
 }
 
-abbr[data-title] {
-  position: relative;
-  
-  text-decoration: underline dotted #39b54a
+abbr::after {
+  content: "?";
+  font-weight: bold;
+  display: inline-block;
+  transform: translate(0, -0.5em);
+  font-size: 75%;
+  color: #39b54a;
+  margin-left: 3px;
 }
 
-abbr[data-title]:hover::after,
-abbr[data-title]:focus::after {
-  content: attr(data-title);
-  
-  /* position tooltip like the native one */
+abbr:hover {
+  position: relative;
+  text-decoration: none;
+  cursor: help;
+}
+
+abbr .abbr-info, .explain .abbr-info {
+  display: none
+}
+
+abbr:hover .abbr-info, .explain:hover .abbr-info {
+  display: block;
   position: absolute;
+  top: 1.5em;
   left: 0;
-  bottom: -30px;
-  width: auto;
-  white-space: nowrap;
-  
-  /* style tooltip */
   background-color: #1e1e1e;
-  color: #fff;
-  border-radius: 3px;
-  box-shadow: 1px 1px 5px 0 rgba(0,0,0,0.4);
-  font-size: 14px;
-  padding: 3px 5px;
+  color: white;
+  border: 1px solid #DCDCDC;
+  padding: 1rem;
+  border-radius: 4px;
+  font-size: 90%;
+  min-width: 250px;
+  max-width: 450px;
+  z-index: 1;
 }
 
 .anchor-ref, .anchor-clause {

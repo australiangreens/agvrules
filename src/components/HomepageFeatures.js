@@ -26,12 +26,12 @@ function Feature({image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <a href='/bylaws'>
+        <a href='bylaws'>
         {image && <img className={styles.featureSvg} alt={title} src={image} /> }
         </a>
       </div>
       <div className="text--center padding-horiz--md">
-        <a href='/bylaws'>
+        <a href='bylaws'>
           <h3>{title}</h3>
           <p>{description}</p>
         </a>

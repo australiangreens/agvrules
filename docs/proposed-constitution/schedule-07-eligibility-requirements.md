@@ -1,0 +1,125 @@
+---
+title: "Schedule 7: Eligibility requirements"
+---
+
+1. ## Membership
+
+    A person is eligible to be admitted as a member if they:
+
+    1.  are a person, not a corporation;
+
+    2.  reside in Victoria;
+
+    3.  support the purposes of the Party; and
+
+    4.  are not a member of a political party that is not a Greens party.
+
+
+
+2. ## Voting in a preselection
+
+    A member is eligible to vote in a preselection if they have been a
+    member of the Party or another Greens party for the last year.
+
+3. ## Voting in a State Council election
+
+    A member is eligible to vote in a State Council election if, when the
+    roll of voters is closed:
+
+    1.  they have been a member of the Party or another Greens party for the
+    last year; and
+
+    2.  in the case of a scheduled election in an odd year or a
+    by-election—they have attended an election deliberation session.
+
+
+
+4. ## State Councillor
+
+    1.  In this item, ***specified person or body*** means:
+
+        <subclause-letters>
+
+        1.  the Party;
+
+        2.  another political party;
+
+        3.  a member who holds public office; and
+
+        4.  a member of another political party who holds public office.
+
+        </subclause-letters>
+
+    2.  A member is eligible for election as a State Councillor if they:
+
+        <subclause-letters>
+
+        1.  have been a member for the past two years; and
+
+        2.  live in Victoria.
+
+        </subclause-letters>
+
+    3.  A member is not eligible for election as a State Councillor if
+        they:
+
+        <subclause-letters>
+
+        1.  have held that office for two consecutive terms (of whatever
+            length) and either they are still in office or they have not
+            yet spent seven months out of office;
+
+        2.  are a member of the same branch as three continuing State
+            Councillors;
+
+        3.  in the last year, have been a member of the Constitutional
+            Votes Committee;
+
+        4.  in the last year, have been a member who holds public
+            office;
+
+        5.  have been an employee or a member of the staff of a
+            specified person or body and the period that has elapsed
+            since they were last so employed is less than the cumulative
+            total period for which they were so employed during the last
+            two years;
+
+        6.  are a represented person within the meaning of the
+            *Guardianship and Administration Act 2019*; or
+
+        7.  in the last five years, have been:
+
+            1.  suspended for a period of three months or more, or
+                expelled, from the Party or another Greens party;
+
+            2.  insolvent under administration, or the equivalent status
+                under the law of another state or territory;
+
+            3.  disqualified under Australian law from managing a
+                corporation or co‑operative; or
+
+            4.  imprisoned for an offence involving dishonesty.
+
+        </subclause-letters>
+
+5. ## Constitutional Votes Committee
+
+    1.  A member is eligible to be appointed to the Constitutional Votes
+        Committee if they:
+
+        <subclause-letters>
+
+        1.  are eligible for election to State Council, excluding the
+            requirement in item 4(3)(c);
+
+        2.  in the last year, have not been a State Councillor; and
+
+        3.  are not a candidate, or a nominee to be a candidate, for
+            election to State Council.
+
+        </subclause-letters>
+
+    2.  Sub-item (1) does not apply to an appointment under
+        [clause 28(4)(b)](constitutional-votes-committee#28.4.b).
+
+

@@ -232,6 +232,7 @@ const highlightPlugin = require('./highlight');
         },
         items: [
           {to: '/bylaws', label: 'By-laws', position: 'left'},
+          {to: '/proposed-constitution', label: 'Proposed Constitution', position: 'left'}
         ],
       },
       footer: {
