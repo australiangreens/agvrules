@@ -60,7 +60,7 @@ redundant.<a href="#3.12" class="hash-link" title="Direct link">#</a></p></li></
   let timesRun = 0;
   const applyHashHighlight = function() {
     timesRun++;
-    if (window.location.hash?.startsWith('#ref') || window.location.hash?.startsWith('#clause')) {
+    if (window.location.hash?.startsWith('#')) {
       const refElement = document.getElementById(window.location.hash.replace('#', ''));
       if (refElement) {
         refElement.parentElement.innerHTML = "<mark>" + refElement.parentElement.innerHTML + "</mark>";
