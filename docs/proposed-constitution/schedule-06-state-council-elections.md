@@ -2,6 +2,43 @@
 title: "Schedule 6: State Council elections"
 ---
 
+:::effectivefrom Timing
+The provisions of this schedule come into force
+on 1 February 2022 except for item 2(2)
+:::
+
+<details>
+
+<summary>Drafting Panel commentary</summary>
+
+See box under [Part 3](./03-state-council.md).
+
+The election of State Councillors is overseen by an independent Constitutional Votes
+Committee, which is dealt with in [Part 4](./04-constitutional-votes-committee.md). The Constitutional Votes Committee must
+conduct the election under important principles set out in Schedule 6, [item 4](#4), including
+prevention of unfair influence, equal treatment of candidates and informed voting.
+
+Schedule 6, [item 5](#election-rules), requires the Constitutional Votes Committee to establish rules for
+the conduct of the election following the principles and procedures set out in detail in
+item 4.
+
+Schedule 6, [items 3 and 4](#by-elections), set out that by-elections may only occur if there are 3 or
+more casual vacancies. Otherwise (and thus usually) a vacancy is added to the
+vacancies to be filled at the next scheduled (i.e. annual) election, with a procedure to
+determine which candidates fill the full two-year terms and which fill a shorter term.
+
+[Schedule 7](./schedule-07-eligibility-requirements.md) sets out the requirements to be elected to State Council, the most
+significant of which is to have been a member of the party for at least two years, to be a
+current resident of Victoria, and not to have been in the past year a member who holds
+public office. There are limitations also on staff of the Party or of a member who holds
+public office being elected ([Schedule 7, Item 4](./schedule-07-eligibility-requirements.md#state-councillor)) and some other limitations. State
+Councillors are limited to two terms before effectively needing to take a one year break
+([Schedule 7, item 4(3)(a)](./schedule-07-eligibility-requirements.md#4.3.a)).
+
+For the system for electing the State Council, see [Part 3](./03-state-council.md) above.
+
+</details>
+
 1. ## Definitions
 
     1.  In this Schedule:
@@ -47,7 +84,7 @@ title: "Schedule 6: State Council elections"
         the declaration of which candidates are elected no later
         than 31 May (***scheduled election***).
 
-    2.  The offices open for election at a scheduled election are:
+    2.  <ClauseAnnotation effectivefrom="on 1 February 2022" /> The offices open for election at a scheduled election are:
 
         <subclause-letters>
 

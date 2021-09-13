@@ -5,7 +5,7 @@ module.exports = function (context, options) {
   let timesRun = 0;
   const applyHashHighlight = function() {
     timesRun++;
-    if (window.location.hash?.startsWith('#ref') || window.location.hash?.startsWith('#clause')) {
+    if (window.location.hash?.startsWith('#')) {
       const refElement = document.getElementById(window.location.hash.replace('#', ''));
       if (refElement) {
         refElement.parentElement.innerHTML = "<mark>" + refElement.parentElement.innerHTML + "</mark>";

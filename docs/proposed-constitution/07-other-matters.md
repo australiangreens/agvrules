@@ -2,8 +2,39 @@
 title: "Part 7: Other matters"
 ---
 
-import CBD from './_CannotBeDelegated.mdx';
+:::effectivefrom Timing
+The provisions of this part of the Constitution come into force
+on the transition date (1 January 2023) apart from clause 40(1)
+:::
 
+<details>
+
+<summary>Drafting Panel commentary</summary>
+
+<u>At a glance</u>
+
+* Provides for general meetings under the Act, including the annual general
+  meeting.
+
+* Sets out a list of other things that are helpful or required by the Act.
+
+<u>Summary and Explanation</u>
+
+The ‘general meeting’ is a meeting of all members as required by law. In particular, it is
+the body that considers special resolutions, including those to change the Constitution
+of the Party.
+
+The quorum of the general meeting to start and continue is reduced from
+100 to 50, but for a special resolution to pass (e.g. to change the Constitution) it retains
+the rule that 100 members must vote along with the legislatively required 75% in
+favour.
+
+The only resolutions general meetings are empowered to pass are special
+resolutions.
+
+</details>
+
+ 
 39. ## General meetings
 
     1.  State Council:
@@ -147,7 +178,7 @@ import CBD from './_CannotBeDelegated.mdx';
 
         </subclause-letters>
 
-    8.  <CBD /> State Council:
+    8.  State Council:
 
         <subclause-letters>
 

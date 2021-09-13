@@ -2,10 +2,73 @@
 title: "Part 1: Fundamental matters"
 ---
 
-import CBD from './_CannotBeDelegated.mdx';
+:::effectivefrom Timing
+The provisions of this part of the Constitution come into force
+on the transition date (1 January 2023) apart from clause 4
+:::
+
+<details>
+
+<summary>Drafting Panel commentary</summary>
+
+<u>At a glance</u>
+
+* Sets out our purposes (clause 1).
+
+* Sets out our principles about (clause 2 to 7):
+
+    * how we make policies and the party strategy,
+
+    * members in public office,
+
+    * how we make decisions,
+
+    * the openness of our Party, and
+
+    * affirmative action.
+
+* Sets out the hierarchy of policies (including Australian Greens policies and local
+  policies made by branches) (clause 2).
+
+<u>Summary and Explanation</u>
+
+Clause 1 on purposes is straightforward.
+
+Clause 2 on policy requires that party policy and the party strategy generally only be
+made by members through a participatory process, by consensus (or a 75% vote) of
+members participating. State Council can make a policy or the party strategy in urgent
+circumstances. The clause also reflects our existing hierarchy of national, state and
+local policies.
+
+Clause 3 is about members in public office and keeps the existing arrangements. It
+retains the conscience vote, requires members in public office at a particular level to
+attempt to reach consensus with each other, and requires members in public office to
+engage with branches and other party bodies wanting such engagement.
+
+Clause 4 introduces a new requirement that all decisions must be made in pursuit of
+the party’s purposes (clause 4(1)). The clause sets out, in a more mandatory way than
+in our current Constitution, the principles of consensus decision-making (clause 4(2) &
+(4)). This clause also sets out new principles for the delegation of decision-making
+(clause 4(3)).
+
+Clause 5 sets out the entitlement of members to attend meetings, establishes a new
+requirement that meetings be accessible to all members and that members have a
+reasonable right to communicate with all other members. This clause also provides for
+members’ forums to be held twice a year to discuss issues raised by members
+(clause 5(4)).
+
+Clause 6 establishes an additional strengthened mandatory obligation on the Party to
+implement affirmative action measures for underrepresented groups. However, this
+does not affect the election process for the State Council.
+
+</details>
 
 
 1. ## Purposes
+
+    <details><summary>Drafting Panel commentary</summary>
+    Clause 1 on purposes is straightforward.
+    </details>
 
     The purposes of the Party are:
 
@@ -31,6 +94,10 @@ import CBD from './_CannotBeDelegated.mdx';
 
 2. ## Policies and party strategy
 
+    <details><summary>Drafting Panel commentary</summary>
+    Clause 2 on policy requires that party policy and the party strategy generally only be made by members through a participatory process, by consensus (or a 75% vote) of members participating. State Council can make a policy or the party strategy in urgent circumstances. The clause also reflects our existing hierarchy of national, state and local policies.
+    </details>
+
     1.  Each state policy and the party strategy may only be made,
         amended or repealed by the membership, through participatory and
         deliberative processes, with the advice of experts and of
@@ -44,7 +111,7 @@ import CBD from './_CannotBeDelegated.mdx';
     3.  If State Council does not ratify such a proposal at its next
         meeting, it must reopen the process that led to it.
 
-    4.  <CBD /> State Council may make, amend or repeal a state policy or the
+    4.  State Council may make, amend or repeal a state policy or the
         party strategy in urgent circumstances. 
 
     5.  The policies of the Party are:
@@ -70,6 +137,10 @@ import CBD from './_CannotBeDelegated.mdx';
         branch that makes it.
 
 3. ## Public office
+
+    <details><summary>Drafting Panel commentary</summary>
+    Clause 3 is about members in public office and keeps the existing arrangements. It retains the conscience vote, requires members in public office at a particular level to attempt to reach consensus with each other, and requires members in public office to engage with branches and other party bodies wanting such engagement.
+    </details>
 
     1.  A member may only be a candidate for public office, or hold
         public office, with the endorsement or permission of the Party.
@@ -115,6 +186,16 @@ import CBD from './_CannotBeDelegated.mdx';
         </subclause-letters>
 
 4. ## Decision-making
+
+    <details><summary>Drafting Panel commentary</summary>
+
+    Clause 4 introduces a new requirement that all decisions must be made in pursuit of
+    the party’s purposes (clause 4(1)). The clause sets out, in a more mandatory way than
+    in our current Constitution, the principles of consensus decision-making (clause 4(2) &
+    (4)). This clause also sets out new principles for the delegation of decision-making
+    (clause 4(3)).
+
+    </details>
 
     1.  Each decision of the Party must be made in pursuit of the
         purposes of the Party.
@@ -164,6 +245,10 @@ import CBD from './_CannotBeDelegated.mdx';
 
 5. ## Openness
 
+    <details><summary>Drafting Panel commentary</summary>
+    Clause 5 sets out the entitlement of members to attend meetings, establishes a new requirement that meetings be accessible to all members and that members have a reasonable right to communicate with all other members. This clause also provides for members’ forums to be held twice a year to discuss issues raised by members (clause 5(4)).
+    </details>
+
     1.  Each member is entitled to attend the meetings of each party
         body, except where:
 
@@ -207,6 +292,10 @@ import CBD from './_CannotBeDelegated.mdx';
         </subclause-letters>
 
 6. ## Affirmative action
+
+    <details><summary>Drafting Panel commentary</summary>
+    Clause 6 establishes an additional strengthened mandatory obligation on the Party to implement affirmative action measures for underrepresented groups. However, this does not affect the election process for the State Council.
+    </details>
 
     1.  The Party must:
 

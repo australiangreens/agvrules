@@ -2,6 +2,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const remarkJargon = require('remark-jargon');
 const remarkFootnotes = require('remark-footnotes');
+const remarkAdmonitions = require('remark-admonitions');
 const acronymsPlugin = require('./acronyms');
 const agvJargon = require('./agv-jargon');
 const bylawLinksPlugin = require('./bylawlinksplugin');
@@ -19,7 +20,7 @@ const highlightPlugin = require('./highlight');
   favicon: 'img/favicon.ico',
   organizationName: 'australiangreens', // Usually your GitHub org/user name.
   projectName: 'agvrules', // Usually your repo name.
-
+  trailingSlash: true,
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -29,10 +30,21 @@ const highlightPlugin = require('./highlight');
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: undefined,
           remarkPlugins: [
             [remarkJargon, { jargon: agvJargon }],
             [remarkFootnotes, { }],
+            [remarkAdmonitions, {
+              tag: ":::",
+              icons: "emoji",
+              infima: true,
+              customTypes: {
+                "effectivefrom": {
+                  ifmClass: 'warning',
+                  emoji: '⌛'
+                }
+              }
+            }],
             [bylawLinksPlugin, {}],
             [acronymsPlugin, { acronyms: {
               "AA": "Affirmative Action",
@@ -182,7 +194,7 @@ const highlightPlugin = require('./highlight');
     [require.resolve('@easyops-cn/docusaurus-search-local'), {
       docsRouteBasePath: '/',
       highlightSearchTermsOnTargetPage: true,
-      searchResultLimits: 20,
+      searchResultLimits: 10,
       searchResultContextMaxLength: 100
     }],
     [
@@ -190,8 +202,22 @@ const highlightPlugin = require('./highlight');
       {
         createRedirects: function (existingPath) {
           if (existingPath.startsWith('/bylaws/')) {
-            const bylawNumber = existingPath.match(/[0-9]{2}/)[0];
-            return [`/bylaws/${bylawNumber}`];
+            const matches = existingPath.match(/[0-9]{2}/);
+            if (matches) {
+              const bylawNumber = matches[0];
+              const shortLink = `/bylaws/${bylawNumber}`;
+              const shorterLink = `/bylaws/${parseInt(bylawNumber)}`;
+              return shortLink === shorterLink ? [shortLink] : [shortLink, shorterLink];
+            }
+          }
+          if (existingPath.startsWith('/proposed-constitution/')) {
+            const scheduleMatches = existingPath.match(/(?:schedule-)([0-9]{2})/);
+            if (scheduleMatches) {
+              const scheduleNumber = scheduleMatches[1];
+              const shortLink = `/proposed-constitution/schedule-${scheduleNumber}`;
+              const shorterLink = `/proposed-constitution/schedule-${parseInt(scheduleNumber)}`;
+              return shortLink === shorterLink ? [shortLink] : [shortLink, shorterLink];
+            }
           }
         },
       },
@@ -232,7 +258,8 @@ const highlightPlugin = require('./highlight');
         },
         items: [
           {to: '/bylaws', label: 'By-laws', position: 'left'},
-          {to: '/proposed-constitution', label: 'Proposed Constitution', position: 'left'}
+          {to: '/proposed-constitution', label: 'Proposed Constitution', position: 'left'},
+          {to: '/charter', label: 'Charter', position: 'left'}
         ],
       },
       footer: {

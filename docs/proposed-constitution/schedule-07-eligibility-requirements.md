@@ -2,9 +2,22 @@
 title: "Schedule 7: Eligibility requirements"
 ---
 
+:::effectivefrom Timing
+The provisions of this schedule come into force
+immediately except for items 1, 2, and 3
+:::
+
+<details>
+
+<summary>Drafting Panel commentary</summary>
+
+See boxes under Parts 3, 4 and 5.
+
+</details>
+
 1. ## Membership
 
-    A person is eligible to be admitted as a member if they:
+    <ClauseAnnotation effectivefrom="on 1 February 2022" /> A person is eligible to be admitted as a member if they:
 
     1.  are a person, not a corporation;
 
@@ -18,12 +31,12 @@ title: "Schedule 7: Eligibility requirements"
 
 2. ## Voting in a preselection
 
-    A member is eligible to vote in a preselection if they have been a
+    <ClauseAnnotation effectivefrom="on 1 February 2022" /> A member is eligible to vote in a preselection if they have been a
     member of the Party or another Greens party for the last year.
 
 3. ## Voting in a State Council election
 
-    A member is eligible to vote in a State Council election if, when the
+    <ClauseAnnotation effectivefrom="on 1 February 2022" /> A member is eligible to vote in a State Council election if, when the
     roll of voters is closed:
 
     1.  they have been a member of the Party or another Greens party for the
@@ -120,6 +133,6 @@ title: "Schedule 7: Eligibility requirements"
         </subclause-letters>
 
     2.  Sub-item (1) does not apply to an appointment under
-        [clause 28(4)(b)](constitutional-votes-committee#28.4.b).
+        [clause 28(4)(b)](./04-constitutional-votes-committee.md#28.4.b).
 
 

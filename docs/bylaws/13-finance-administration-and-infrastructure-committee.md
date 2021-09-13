@@ -8,7 +8,7 @@ number: 13
 ## Introduction
 
 This by-law should be read in conjunction with the [Expenditure
-Administration By-law](./23-expenditure-administration).
+Administration By-law](./23-expenditure-administration.md).
 
 ## Functions
 

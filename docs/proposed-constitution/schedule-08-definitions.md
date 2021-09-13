@@ -2,6 +2,19 @@
 title: "Schedule 8: Definitions"
 ---
 
+:::effectivefrom Timing
+The provisions of this schedule come into force
+immediately
+:::
+
+<details>
+
+<summary>Drafting Panel commentary</summary>
+
+Lists definitions of terms used in the Constitution.
+
+</details>
+
 In this Constitution:
 
 ***Act*** means the *Associations Incorporation Reform Act 2012*;

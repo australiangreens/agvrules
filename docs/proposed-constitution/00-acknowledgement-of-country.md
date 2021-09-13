@@ -1,5 +1,4 @@
 ---
-id: acknowledgement-of-country
 title: Acknowledgement of Country
 ---
 

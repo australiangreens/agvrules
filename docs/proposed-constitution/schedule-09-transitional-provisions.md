@@ -2,6 +2,43 @@
 title: "Schedule 9: Transitional provisions"
 ---
 
+:::effectivefrom Timing
+The provisions of this schedule come into force
+immediately
+:::
+
+:::effectivefrom Timing
+This schedule is repealed the day after the transition date (1 January 2023)
+:::
+
+<details>
+
+<summary>Drafting Panel commentary</summary>
+
+Provides a system for how, if the draft new Constitution is passed, we will transition
+from the current Constitution to the new Constitution.
+
+Important elements of this are as follows:
+
+* Most of the new structure does not take effect until 1 January 2023. However,
+  a new State Council is elected in the first half of 2022. Its decisions do not take
+  effect until 1 January 2023. During 2022, the old State Council, State Executive
+  and Office Bearers continue to run the Party. This is to ensure that the
+  changeover does not occur during 2022, which will be an election year.
+
+* Much of the existing arrangements automatically carry over into the new
+  structure unless and until the new State Council or members decide to change
+  it. This includes policies, branches and working groups.
+
+* The new State Council must also, by 1 January 2023, establish party bodies
+  and provide arrangements that functionally reproduce the party bodies and
+  arrangements in the Old Constitution, and in bylaws made under the Old
+  Constitution, in respect of the following matters: probity, preselection, election
+  campaigning, urgent withdrawal of party endorsement of a candidate for public
+  office, misconduct and tithing.
+
+</details>
+
 1. ## Definitions
 
     In this Schedule:
@@ -28,22 +65,22 @@ title: "Schedule 9: Transitional provisions"
             provision relating to the name of the Party, remain in force
             until the transition date;
 
-        2.  [clause 40(1)](other-matters#40.1) and Schedules 7 ([items 4](schedule-07-eligibility-requirements#4) and [5](schedule-07-eligibility-requirements#5) only), [8](schedule-08-definitions) and [9](schedule-09-transitional-provisions)
+        2.  [clause 40(1)](./07-other-matters.md#40.1) and Schedules 7 ([items 4](./schedule-07-eligibility-requirements.md#4) and [5](./schedule-07-eligibility-requirements.md#5) only), [8](./schedule-08-definitions.md) and [9](./schedule-09-transitional-provisions.md)
             of this Constitution come into force immediately;
 
         3.  the following provisions of this Constitution come into
             force on 1 February 2022:
 
-            1.  [clause 4](fundamental-matters#4);
+            1.  [clause 4](./01-fundamental-matters.md#4);
 
-            2.  [clauses 35 and 36](documentation#35) as they apply to the New State
+            2.  [clauses 35 and 36](./06-documentation.md#35) as they apply to the New State
                 Council;
 
-            3.  [Parts 3](state-council) (apart from [clause 21(2)](#21.2)) and [4](constitutional-votes-committee) ; and
+            3.  [Parts 3](./03-state-council.md) (apart from [clause 21(2)](./03-state-council.md#21.2)) and [4](./04-constitutional-votes-committee.md) ; and
 
-            4.  Schedules [4](schedule-04-powers-state-council-must-not-delegate), [5](schedule-05-state-council-meeting-procedure) and [6](schedule-06-state-council-elections) (apart from [item 2(2)](schedule-06-state-council-elections#2.2));
+            4.  Schedules [4](./schedule-04-powers-state-council-must-not-delegate.md), [5](./schedule-05-state-council-meeting-procedure.md) and [6](./schedule-06-state-council-elections.md) (apart from [item 2(2)](./schedule-06-state-council-elections.md#2.2));
 
-        4.  [clauses 35 and 36](documentation#35) come into force completely on the
+        4.  [clauses 35 and 36](./06-documentation.md#35) come into force completely on the
             transition date; and
 
         5.  the remaining provisions of this Constitution come into
@@ -66,7 +103,7 @@ title: "Schedule 9: Transitional provisions"
         the Co-Convenors who each individually have all of the powers
         and responsibilities of the Convenor.’
 
-    5.  For the purposes of [Schedule 7, item 4(3)(a)](schedule-07-eligibility-requirements#4.3.a), any office held
+    5.  For the purposes of [Schedule 7, item 4(3)(a)](./schedule-07-eligibility-requirements.md#4.3.a), any office held
         under the Old Constitution does not count as holding office as a
         State Councillor under this Constitution.
 

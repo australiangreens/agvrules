@@ -66,7 +66,7 @@ abbr .abbr-info, .explain .abbr-info {
 abbr:hover .abbr-info, .explain:hover .abbr-info {
   display: block;
   position: absolute;
-  top: 1.5em;
+  top: 1.25em;
   left: 0;
   background-color: #1e1e1e;
   color: white;
@@ -85,4 +85,12 @@ abbr:hover .abbr-info, .explain:hover .abbr-info {
 
 li:target {
   background-color: yellow;
+}
+
+.hash-link {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
 }

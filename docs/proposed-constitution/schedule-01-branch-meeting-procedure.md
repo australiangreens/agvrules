@@ -2,6 +2,25 @@
 title: "Schedule 1: Branch meeting procedure"
 ---
 
+:::effectivefrom Timing
+The provisions of this schedule come into force
+on the transition date (1 January 2023)
+:::
+
+<details>
+
+<summary>Drafting Panel commentary</summary>
+
+Schedule 1 sets out the meeting procedure for Branches.
+
+The quorum for Branches with less than 15 members is set at 4.
+
+Branches can set their own procedures but State Council has the power to revoke
+branch-decided procedures in exceptional circumstances (e.g. if a branch decided that
+a branch office bearer would have an unlimited term).
+
+</details>
+
 1. ## Convening
 
     A branch meeting may be convened:
@@ -36,7 +55,7 @@ title: "Schedule 1: Branch meeting procedure"
 
 4. ## Proceedings
 
-    1.  A branch meeting must comply with the requirements in [clause 4](fundamental-matters#4).
+    1.  A branch meeting must comply with the requirements in [clause 4](./01-fundamental-matters.md#4).
 
     2.  A branch meeting must decide its own agenda.
 
