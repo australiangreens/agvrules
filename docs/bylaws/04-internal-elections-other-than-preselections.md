@@ -118,7 +118,7 @@ seeking of further candidates.
 
 ## Results
 
-1.  The declaration of any result of any election conducted by the State
+1. The declaration of any result of any election conducted by the State
 Returning Officer shall be final. Whilst in some circumstances the
 governing body may declare a position vacant in order to conduct a
 new election, it is not able to deem the State Returning Officer’s

@@ -11,9 +11,9 @@ number: 03
     clause. All references to clauses are to clauses of the Constitution
     unless stated otherwise.
 
-## \[81.1\] Mediation Panel
+## [81.1] Mediation Panel
 
-1. \[81.1(a)\] The following disclosures are excepted from the obligation imposed by clause 79.4:
+1. [81.1(a)] The following disclosures are excepted from the obligation imposed by clause 79.4:
 
     1. if the member has been assured by the intended recipient of the
     disclosure that they will keep the information confidential—to a close
@@ -44,7 +44,7 @@ number: 03
     1. between the Mediation Panel and the State Director, or their
     delegate, for the purpose of administrative support.
 
-1.  \[81.1(b)\] The following members are not eligible to be appointed
+1.  [81.1(b)] The following members are not eligible to be appointed
     to and remain a member of the Mediation Panel:
 
     1.  a member of a parliamentarian’s paid staff; and
@@ -52,7 +52,7 @@ number: 03
     2.  a member who has been the subject of a sanction in the past 5
         years.
 
-2.  \[81.1(c)\] The search for candidates for appointment to the
+2.  [81.1(c)] The search for candidates for appointment to the
     Mediation Panel will adopt the following procedure:
 
     1.  All members will be invited to express interest whenever a
@@ -72,7 +72,7 @@ number: 03
         well as their experience (both in and out of the Party), and
         personal background, cause them to be suitable for the role.
 
-3.  \[81.1(c)\] So far as is practicable, the Mediation Panel will be
+3.  [81.1(c)] So far as is practicable, the Mediation Panel will be
     made up of:
 
     1.  not more than 2 men;
@@ -81,14 +81,14 @@ number: 03
 
     3.  not more than 1 member from any one branch.
 
-4.  \[81.1(d)\] The Mediation Panel should ensure that the members-only
+4.  [81.1(d)] The Mediation Panel should ensure that the members-only
     website contains a page updated at least every six months that
     records: the number of requests received by the Panel each year, and
     brief details of the outcome: for example, whether the interpersonal
     difficulty was resolved or not and whether an agreement was entered
     into.
 
-5.  \[81.1(e)\] When a request for mediation is received, the Mediation
+5.  [81.1(e)] When a request for mediation is received, the Mediation
     Panel must:
 
     1.  ascertain the interpersonal difficulties being experienced by
@@ -103,7 +103,7 @@ number: 03
     4.  unless exceptional circumstances prevent it, make arrangements
         for mediation within 21 days.
 
-6.  \[81.1(e)\] When exercising its power under clause 79.2, the
+6.  [81.1(e)] When exercising its power under clause 79.2, the
     Mediation Panel must require that, if an interpersonal difficulty is
     resolved by agreement between the parties at a mediation, the
     mediator must:
@@ -113,12 +113,12 @@ number: 03
 
     2.  advise the Mediation Panel that the matter has been resolved.
 
-7.  \[81.1(e)\] The Mediation Panel must keep a confidential record of
+7.  [81.1(e)] The Mediation Panel must keep a confidential record of
     its work, including the above.
 
-## \[85.1\] Administrative Review Panel
+## [85.1] Administrative Review Panel
 
-1.  \[85.1(c)\] It is recommended that the Administrative Review Panel
+1.  [85.1(c)] It is recommended that the Administrative Review Panel
     should take—
 
     1.  regarding applications relating to clause 92—
@@ -135,7 +135,7 @@ number: 03
 
         2.  at most, 90 days to deal with a complex application.
 
-2.  \[85.1(d)\] The following members are not eligible to be appointed
+2.  [85.1(d)] The following members are not eligible to be appointed
     to and remain a member of the Administrative Review Panel:
 
     1.  a member who, in the past 12 months, has been:
@@ -147,11 +147,11 @@ number: 03
     2.  a member who has been the subject of a sanction in the past 5
         years.
 
-3.  \[85.1(e)\] The search for candidates for appointment to the
+3.  [85.1(e)] The search for candidates for appointment to the
     Administrative Review Panel will adopt the same procedure as for the
     Mediation Panel (as provided for in clause 3 of this bylaw).
 
-4.  \[85.1(e)\] So far as is practicable, the Administrative Review
+4.  [85.1(e)] So far as is practicable, the Administrative Review
     Panel will be made up of:
 
     1.  not more than 3 men;
@@ -160,10 +160,10 @@ number: 03
 
     3.  not more than 2 members from any one branch.
 
-5.  \[85.1(h)\] A member may not hold the position of Convenor of the
+5.  [85.1(h)] A member may not hold the position of Convenor of the
     Administrative Review Panel for more than 24 consecutive months.
 
-6.  \[85.1(i)\] The Convenor of the Administrative Review Panel must:
+6.  [85.1(i)] The Convenor of the Administrative Review Panel must:
 
     1.  keep and maintain a record of applications made to, and
         decisions made and reasons given by, the Administrative Review
@@ -182,22 +182,22 @@ number: 03
             interpretations of the Constitution given by the
             Administrative Review Panel and State Council.
 
-## \[96.1\] Misconduct Panel
+## [96.1] Misconduct Panel
 
-1.  \[96.1(a)\] It is recommended that a Sub-Panel should take:
+1.  [96.1(a)] It is recommended that a Sub-Panel should take:
 
     1.  at most, 30 days to deal with a straightforward application; and
 
     2.  at most, 90 days to deal with a complex application.
 
-2.  \[96.1(c)\] The following bodies are excepted from the prohibition
+2.  [96.1(c)] The following bodies are excepted from the prohibition
     imposed by clause 89.3(c):
 
     1.  the Probity Panel; and
 
     2.  the Endorsement Review Committee.
 
-3.  \[96.1(c)\] The following disclosures are excepted from the
+3.  [96.1(c)] The following disclosures are excepted from the
     obligation imposed by clause 89.6:
 
     1.  if the member has been assured by the intended recipient of the
@@ -232,10 +232,10 @@ number: 03
     10. to the Mediation Panel or an appointed mediator for the purposes
         of mediation.
 
-4.  \[96.1(d)\] The updates under clause 89.9(n) must be provided
+4.  [96.1(d)] The updates under clause 89.9(n) must be provided
     fortnightly.
 
-5.  \[96.1(h)\] The following members are not eligible to be appointed
+5.  [96.1(h)] The following members are not eligible to be appointed
     to and remain a member of the Misconduct Panel:
 
     1.  a member of the Endorsement Review Committee;
@@ -249,11 +249,11 @@ number: 03
     3.  a member who has been the subject of a sanction in the past 5
         years.
 
-6.  \[96.1(i)\] The search for candidates for appointment to the
+6.  [96.1(i)] The search for candidates for appointment to the
     Misconduct Panel will adopt the same procedure as for the Mediation
     Panel (as provided for in clause 3 of this bylaw).
 
-7.  \[96.1(i)\] So far as is practicable, the Misconduct Panel will be
+7.  [96.1(i)] So far as is practicable, the Misconduct Panel will be
     made up of:
 
     1.  not more than 5 men;
@@ -262,15 +262,15 @@ number: 03
 
     3.  not more than 2 members from any one branch.
 
-8.  \[96.1(j)\] Former members of the Misconduct Panel are disqualified
+8.  [96.1(j)] Former members of the Misconduct Panel are disqualified
     from being eligible to be elected or appointed to the State
     Executive and the Victorian Campaign Committee for a period of one
     year after having been a member of the Misconduct Panel.
 
-9.  \[96.1(l)\] A member may not hold the position of Convenor of the
+9.  [96.1(l)] A member may not hold the position of Convenor of the
     Misconduct Panel for more than 24 consecutive months.
 
-10. \[96.1(m)\] The power and duty to provide a Notice of Sanction to
+10. [96.1(m)] The power and duty to provide a Notice of Sanction to
     all members under clause 93.1 includes:
 
     1.  ensuring that the members-only website contains a page, updated
@@ -290,13 +290,13 @@ number: 03
 Notices of Sanction will be stored on the members only website and
  distributed to all members via a link in the AGV eBulletin.
 
-1.  \[96.1(m)\] The Convenor of the Misconduct Panel should ensure that
+1.  [96.1(m)] The Convenor of the Misconduct Panel should ensure that
     the members-only website contains a page updated at least every six
     months that records: the number of allegations received by the Panel
     each year, and brief details of the outcome: for example, whether
     current, dismissed, proceeded to State Council hearing or appeal.
 
-2.  \[81.1(d), 85.1(i), 96.1(m)\] The Meditation Panel, the Misconduct
+2.  [81.1(d), 85.1(i), 96.1(m)] The Meditation Panel, the Misconduct
     Panel and the Administrative Review Panels should submit joint or
     individual reports to the final State Council meeting before the
     Annual State Conference. The reports should be brief and include

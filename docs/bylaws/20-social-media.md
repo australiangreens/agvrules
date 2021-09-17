@@ -74,12 +74,12 @@ and will not include internal party matters.
 10A. Candidate online assets will be removed a reasonable time after the
 election unless:
 
-> \(a\) the candidate is elected; or
->
-> \(b\) the Victorian Campaign Committee agrees otherwise, in which case
-> the Party name, logo, or other branding element used in such a way as
-> to indicate, whether accurately or not, representation of the Parry
-> shall be removed.
+(a) the candidate is elected; or
+
+(b) the Victorian Campaign Committee agrees otherwise, in which case
+the Party name, logo, or other branding element used in such a way as
+to indicate, whether accurately or not, representation of the Parry
+shall be removed.
 
 ## Guidelines for Private Groups
 

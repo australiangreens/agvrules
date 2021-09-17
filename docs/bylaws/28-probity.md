@@ -33,14 +33,13 @@ Returning Officer.
     nomination.
 
 3.  Noting that the AGV Constitution states \[at 8.1\] that
+    *“All AGV Members are entitled to the following benefits: … (f) To be
+    eligible to seek nomination for public office as a candidate for the
+    Greens (NC 9.8), subject to clause 56.13”,*
 
-> *“All AGV Members are entitled to the following benefits: … (f) To be
-> eligible to seek nomination for public office as a candidate for the
-> Greens (NC 9.8), subject to clause 56.13”,*
->
-> probity should only be rejected where there are compelling and serious
-> reasons why, in the interests of the AGV, the member should be deemed
-> not suitable to stand as a candidate.
+    probity should only be rejected where there are compelling and serious
+    reasons why, in the interests of the AGV, the member should be deemed
+    not suitable to stand as a candidate.
 
 1.  The paramount duty of the Probity Panel is to make decisions in the
     best interests of the AGV. The Probity Panel will, in this regard,
@@ -76,16 +75,16 @@ Returning Officer.
 
 
 1.  appointed as Returning Officer or as an advisor to a Returning
-    > Officer for a position which the sub-panel is considering.
+    Officer for a position which the sub-panel is considering.
 
 2.  who is a nominee or nominator for a position which the sub-panel is
-    > considering.
+    considering.
 
 3.  who is a fellow branch member of a nominee for a position which the
-    > sub-panel is considering.
+    sub-panel is considering.
 
 4.  who would be perceived to have a conflict of interest in relation to
-    > a nominee or the position which the sub-panel is considering.
+    a nominee or the position which the sub-panel is considering.
 
 
 
@@ -133,10 +132,10 @@ Returning Officer.
 1.  To the State Conference annually,
 
 2.  To the Victorian Campaign Committee monthly during Local, State or
-    > Federal election periods.
+    Federal election periods.
 
 3.  At any time as requested by the Victorian Campaign Committee, State
-    > Executive or State Council.
+    Executive or State Council.
 
 ## Probity Checks
 
@@ -168,18 +167,18 @@ Returning Officer.
 1.  a completed Probity Form as prescribed from time to time by the VCC;
 
 2.  a signed Statutory Declaration attesting to the correctness of the
-    > Preselection and Probity Forms, and agreeing to a Police Check if
-    > the Returning Officer or Probity Panel deem it necessary;
+    Preselection and Probity Forms, and agreeing to a Police Check if
+    the Returning Officer or Probity Panel deem it necessary;
 
 3.  any other document or form requested by the Probity Panel or a
-    > Probity sub-panel.
+    Probity sub-panel.
 
-> provided that a nominee who has been approved by a Probity Panel
-> within the previous 3 years may provide the statutory declaration
-> described in clause 24(b) above in substitution for the documents
-> required in this clause and a check will be conducted with the most
-> senior staff member and Victorian Campaign Committee or relevant
-> election campaign committee Convenor to confirm this.
+provided that a nominee who has been approved by a Probity Panel
+within the previous 3 years may provide the statutory declaration
+described in clause 24(b) above in substitution for the documents
+required in this clause and a check will be conducted with the most
+senior staff member and Victorian Campaign Committee or relevant
+election campaign committee Convenor to confirm this.
 
 1.  The Returning Officer shall pass any envelopes or attachments
     containing the probity documents to the Probity Panel unopened.
@@ -194,22 +193,22 @@ Returning Officer.
 1.  scrutiny of the probity form and accompanying Statutory Declaration;
 
 2.  assiduous and reasonable searches of available online information
-    > about the nominee, their professional and community organisation
-    > affiliations, and their media presence, if any (except if the
-    > nominee is an elected representative);
+    about the nominee, their professional and community organisation
+    affiliations, and their media presence, if any (except if the
+    nominee is an elected representative);
 
 3.  a request for any relevant information from the AGV Misconduct
-    > Panel;
+    Panel;
 
 4.  an invitation for input from local Branch and regional bodies’
-    > office bearers and party officials;
+    office bearers and party officials;
 
 5.  consideration of any objections to or concerns about probity raised
-    > by other Members.
+    by other Members.
 
-> and assessment of nominees after appropriate input from local Branch
-> and regional bodies’ office bearers, party officials and other members
-> as considered necessary.
+and assessment of nominees after appropriate input from local Branch
+and regional bodies’ office bearers, party officials and other members
+as considered necessary.
 
 1.  The nominee shall provide:
 
@@ -220,14 +219,14 @@ Returning Officer.
 2.  All pseudonyms that they use or have previously used,
 
 3.  Access to all Probity sub-panel members of all social media and
-    > online engagement accounts currently in use by the nominee or
-    > which were in use within the previous five (5) years. This access
-    > shall be maintained for the duration of the decision-making
-    > period. This access may include, for example, allowing Probity
-    > sub-panel members to ‘friend’ them on Facebook, ensuring Probity
-    > sub-panel members can ‘follow’ all of the nominee’s Twitter
-    > accounts and ensuring any other action is taken which provides the
-    > Probity sub-panel members such access.
+    online engagement accounts currently in use by the nominee or
+    which were in use within the previous five (5) years. This access
+    shall be maintained for the duration of the decision-making
+    period. This access may include, for example, allowing Probity
+    sub-panel members to ‘friend’ them on Facebook, ensuring Probity
+    sub-panel members can ‘follow’ all of the nominee’s Twitter
+    accounts and ensuring any other action is taken which provides the
+    Probity sub-panel members such access.
 
 
 
@@ -239,14 +238,14 @@ Returning Officer.
 
 
 1.  Any person contacted by the Probity Panel will be advised of the
-    > confidential nature of the process in that they should not
-    > disclose that the person has nominated, nor should they disclose
-    > the questions asked by or their response made to the Probity Panel
-    > to any other person.
+    confidential nature of the process in that they should not
+    disclose that the person has nominated, nor should they disclose
+    the questions asked by or their response made to the Probity Panel
+    to any other person.
 
 2.  All responses received by the Probity Panel shall be kept
-    > confidential to the Probity Panel and shall only be disclosed as a
-    > non-identifying summary should clause 41 be enacted.
+    confidential to the Probity Panel and shall only be disclosed as a
+    non-identifying summary should clause 41 be enacted.
 
 ## Probity Decisions
 
@@ -258,42 +257,42 @@ Returning Officer.
 1.  approved, or
 
 2.  approved subject to certain conditions outlined by the Probity
-    > Panel, or
+    Panel, or
 
 3.  approved noting risk/communication matters if preselected, or
 
 4.  rejected.
 
-> A sub-panel may only make this finding by consensus. Should consensus
-> not be achieved the nomination will be considered by the full Probity
-> Panel, at which a majority will be required to make the finding.
+A sub-panel may only make this finding by consensus. Should consensus
+not be achieved the nomination will be considered by the full Probity
+Panel, at which a majority will be required to make the finding.
 >
-> Subject to 34, 39 and 40 below, the decision-making period must be no
-> later than fourteen (14) days (or 48 hours in the case of a snap
-> election) after the close of nominations.
+Subject to 34, 39 and 40 below, the decision-making period must be no
+later than fourteen (14) days (or 48 hours in the case of a snap
+election) after the close of nominations.
 >
-> In the case of a nominee being approved with conditions, the State
-> Director, or their delegate, will be informed in writing within 72
-> hours by the Probity Panel. If the nominee gains preselection, the
-> convenor of the relevant body responsible for the preselection will be
-> provided a summary of conditions by the Probity Panel. The convenor of
-> the relevant body responsible for preselection will be tasked with
-> tracking compliance of conditions. Any breaches of conditions must
-> then be referred to the Endorsement Review Committee.
+In the case of a nominee being approved with conditions, the State
+Director, or their delegate, will be informed in writing within 72
+hours by the Probity Panel. If the nominee gains preselection, the
+convenor of the relevant body responsible for the preselection will be
+provided a summary of conditions by the Probity Panel. The convenor of
+the relevant body responsible for preselection will be tasked with
+tracking compliance of conditions. Any breaches of conditions must
+then be referred to the Endorsement Review Committee.
 
 1.  The Probity Panel shall have the authority to:
 
 
 
 1.  request further statutory declarations from any nominee should the
-    > panel judge that more information be required to make an
-    > assessment on any nomination.
+    panel judge that more information be required to make an
+    assessment on any nomination.
 
 2.  interview any nominee should the panel judge that more information
-    > be required to make an assessment on any nomination.
+    be required to make an assessment on any nomination.
 
-> In these circumstances, the decision-making period may be extended to
-> allow reasonable time for the nominee to comply.
+In these circumstances, the decision-making period may be extended to
+allow reasonable time for the nominee to comply.
 
 1.  If the nomination is approved subject to certain conditions or
     rejected, the decision shall be considered to be an interim decision
@@ -306,16 +305,16 @@ Returning Officer.
 
 
 1.  the sub-panel judges that the candidacy of the nominee concerned
-    > would be inappropriate,
+    would be inappropriate,
 
 2.  the sub-panel judges that the candidacy of the nominee would be
-    > detrimental to the Australian Greens Victoria on grounds relating
-    > to past conduct, character or reputation,
+    detrimental to the Australian Greens Victoria on grounds relating
+    to past conduct, character or reputation,
 
 3.  the candidate has not given an undertaking to support stated party
-    > policy, subject to clause 51.2 of the constitution, or in lieu of
-    > that undertaking, has not provided pre-selectors with an
-    > explanation as to which policies the candidate does not support.
+    policy, subject to clause 51.2 of the constitution, or in lieu of
+    that undertaking, has not provided pre-selectors with an
+    explanation as to which policies the candidate does not support.
 
 
 
@@ -327,21 +326,21 @@ Returning Officer.
 1.  refuses to co-operate with the probity panel
 
 2.  fails to comply with any conditions outlined in the relevant Code of
-    > Conduct forms
+    Conduct forms
 
 3.  fails to comply with any conditions outlined in the Confidentiality
-    > Agreement
+    Agreement
 
 4.  fails to comply with any condition imposed upon the nominee in
-    > relation to their nomination (as per 35 (b) above)
+    relation to their nomination (as per 35 (b) above)
 
 5.  holds a public position in opposition to Party policy, and the
-    > probity sub-panel deems the matter to be so serious as to damage
-    > the party’s electoral opportunities.
+    probity sub-panel deems the matter to be so serious as to damage
+    the party’s electoral opportunities.
 
-> Prima facie a serious falsehood or apparent serious concealment of
-> facts or issues in probity forms is grounds for a nomination to be
-> rejected.
+Prima facie a serious falsehood or apparent serious concealment of
+facts or issues in probity forms is grounds for a nomination to be
+rejected.
 
 1.  Where the Probity Panel rejects a nomination, the nominee may not
     nominate for any other position at the same election.
@@ -353,24 +352,24 @@ Returning Officer.
 
 
 1.  The Probity sub-panel will prepare a document setting out the
-    > reasons for the decision.
+    reasons for the decision.
 
 2.  The nominee will be provided with the reasons for decision and shall
-    > have 48 hours to provide a response to the Probity sub-panel.
+    have 48 hours to provide a response to the Probity sub-panel.
 
 3.  The reasons for the decision may include a summary of feedback
-    > received, without breaching the confidentiality requirements at
-    > clause 31.
+    received, without breaching the confidentiality requirements at
+    clause 31.
 
 4.  The Probity sub-panel will consider any response from the nominee in
-    > making a final decision.
+    making a final decision.
 
 5.  A final decision will be made within 48 hours of receipt of any
-    > response from the nominee. If the nominee fails to provide a
-    > response, the original decision will stand.
+    response from the nominee. If the nominee fails to provide a
+    response, the original decision will stand.
 
-> In these circumstances, the decision-making period may be extended to
-> allow for these processes to occur.
+In these circumstances, the decision-making period may be extended to
+allow for these processes to occur.
 
 1.  Clause 38 above shall not apply in the circumstances of a
     snap-election.
@@ -389,7 +388,7 @@ Returning Officer.
 
 
 1.  will be reported to the relevant Returning Officer and the nominee
-    > within 24 hours of the decision
+    within 24 hours of the decision
 
 2.  may be appealed to the State Executive.
 
@@ -452,25 +451,25 @@ that:
 
 
 1.  discuss the responsibility of the position, in particular trust
-    > implications
+    implications
 
 2.  ensure the applicant understand the duration of the appointment
 
 3.  ensure the applicant is prepared to sign a confidentiality agreement
-    > on appointment
+    on appointment
 
 4.  ensure that the applicant has the personal and professional aptitude
 
 5.  ensure the applicant has been actively participating in the AGV by
-    > being involved in branch, campaigning and/or State Council
-    > activities
+    being involved in branch, campaigning and/or State Council
+    activities
 
 6.  ensure the applicant has a demonstrated capacity or experience to
-    > exercise political judgment, e.g. has held leadership positions in
-    > the AGV or related organisations
+    exercise political judgment, e.g. has held leadership positions in
+    the AGV or related organisations
 
 7.  ensure the applicant has a reference from a Branch or State office
-    > bearer
+    bearer
 
 
 

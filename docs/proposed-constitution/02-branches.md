@@ -199,10 +199,6 @@ circumstances and only for 60 days.
 
 11. ## Procedure
 
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 2 on policy requires that party policy and the party strategy generally only be made by members through a participatory process, by consensus (or a 75% vote) of members participating. State Council can make a policy or the party strategy in urgent circumstances. The clause also reflects our existing hierarchy of national, state and local policies.
-    </details>
-
     The branch meeting procedure is in Schedule 1.
 
 12. ## Branch question to State Council

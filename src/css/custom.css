@@ -33,10 +33,20 @@ ol, ol ol, ol ol ol {
 
 subclause-letters ol {
   list-style-type: lower-alpha !important;
+  counter-reset: none;
 }
 
 subclause-letters ol ol {
   list-style-type: lower-roman !important;
+}
+
+subclause-letters ol > li {
+  display: list-item;
+  counter-increment: none;
+}
+
+subclause-letters ol > li:before {
+  content: none !important;
 }
 
 abbr {

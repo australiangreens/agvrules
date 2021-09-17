@@ -2,7 +2,7 @@ const visit = require('unist-util-visit');
 const map = require('unist-util-map');
 const is = require('unist-util-is');
 
-const proposedConstitutionAcronyms = {
+const proposedConstitutionDefinitions = {
   "Australian Greens Victoria": undefined,
   "Electoral Act": undefined,
   "Australian Greens": "the Australian Greens (The Greens) Incorporated, incorporated under the *Associations Incorporation Act 1991* (ACT) with association number A02626",
@@ -42,20 +42,20 @@ const proposedConstitutionAcronyms = {
   "financial year": "The financial year of the Party is the year ending on 30 June.",
 }
 
-module.exports = function acronymsPlugin({
-  acronyms
+module.exports = function definitionsPlugin({
+  definitions
 } = {}) {
   return function transformer(tree, file) {
-    if (!acronyms) return tree;
+    if (!definitions) return tree;
     if (file.history[0].indexOf('proposed-constitution') !== -1) {
-      acronyms = Object.assign({}, acronyms, proposedConstitutionAcronyms);
+      definitions = Object.assign({}, definitions, proposedConstitutionDefinitions);
     }
 
-    const acronymsRegExp = new RegExp(`\\b(${Object.keys(acronyms).join('|')})\\b`, 'gi');
+    const acronymsRegExp = new RegExp(`\\b(${Object.keys(definitions).join('|')})\\b`, 'gi');
     visit(tree, 'text', (node, index, parent) => {
       if (node.value && typeof node.value === 'string') {
         const newNodes = node.value.split(acronymsRegExp).map((value) => {
-          const acronymTitle = acronyms[value] ? acronyms[value] : acronyms[value.toLowerCase()];
+          const acronymTitle = definitions[value] ? definitions[value] : definitions[value.toLowerCase()];
   
           return acronymTitle
             ? {

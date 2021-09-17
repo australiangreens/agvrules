@@ -77,7 +77,7 @@ following functions and powers in relation to State Policy:
         Convenor declines, in which case it shall be the State Secretary
         unless the State Secretary declines, and so on.
 
-    3.  Four General Members (\*see procedure for election of General
+    3.  Four General Members (*see procedure for election of General
         Members of Standing Committees)
 
     4.  Up to two members recommended by the Policy Committee to State
@@ -128,36 +128,36 @@ following functions and powers in relation to State Policy:
 ### PURPOSE AND ROLES 
 
 1.  It is the purpose of the PWG, in co-operation with the Policy
-    > Committee and as per the State Council approved policy processes,
-    > to:
+    Committee and as per the State Council approved policy processes,
+    to:
 
     1.  develop and review policy in the area of \[specific policy or
-        > policies\] during the four-yearly substantive policy review;
+        policies\] during the four-yearly substantive policy review;
 
     2.  monitor developments in its policy area(s), and recommend
-        > further variation to policy as necessary;
+        further variation to policy as necessary;
 
     3.  provide support to elected representatives and other
-        > spokespersons of the Greens, at their request;
+        spokespersons of the Greens, at their request;
 
     4.  provide interpretation advice to the Policy Committee on any
-        > question relating to the policy area(s);
+        question relating to the policy area(s);
 
     5.  act as a forum for members of the party to discuss issues in all
-        > aspects of the policy area with the view of engaging members
-        > in the policy review process, engaging and informing members
-        > through discussion on interesting aspects of the policy area,
-        > and providing support in the policy area(s) for AGV campaigns;
-        > and
+        aspects of the policy area with the view of engaging members
+        in the policy review process, engaging and informing members
+        through discussion on interesting aspects of the policy area,
+        and providing support in the policy area(s) for AGV campaigns;
+        and
 
     6.  ensure that internal members-only discussions, including online
-        > forums, follow Greens safe-meeting practices.
+        forums, follow Greens safe-meeting practices.
 
 2.  While the PWG does not have the responsibility for developing or
-    > implementing political strategy in the policy area(s), or
-    > implementing specific initiatives, action plans or campaigns,
-    > these will be developed in consultation with the PWG where time
-    > permits.
+    implementing political strategy in the policy area(s), or
+    implementing specific initiatives, action plans or campaigns,
+    these will be developed in consultation with the PWG where time
+    permits.
 
 ### LIAISON
 
@@ -170,113 +170,113 @@ following functions and powers in relation to State Policy:
 2.  constituent groups of the AGV;
 
 3.  comparable Greens groups in other states and territories, the
-    > federal party, and international Greens groups; and
+    federal party, and international Greens groups; and
 
 4.  other individuals with expertise or interest in the policy area.
 
 
 
 1.  The Policy Committee or State Council may request a report or
-    > research on any policy matter within its area, at any time during
-    > the life of the PWG.
+    research on any policy matter within its area, at any time during
+    the life of the PWG.
 
 ### TERM OF OPERATION 
 
 1.  The PWG will commence operations when endorsed by the State Council
-    > meeting.
+    meeting.
 
 2.  The PWG is an ongoing working group.
 
 ### MEMBERSHIP
 
 1.  Any financial members of the AGV shall be eligible to stand for
-    > election to the PWG.
+    election to the PWG.
 
 2.  State Council will elect \[number\] PWG members annually from among
-    > all the members of the party. In addition, the parliamentary
-    > portfolio holder or spokesperson shall be a member of the PWG.
-    > Where appropriate and determined by State Council, a local
-    > councillor selected by the local council representatives shall be
-    > added to the PWG.
+    all the members of the party. In addition, the parliamentary
+    portfolio holder or spokesperson shall be a member of the PWG.
+    Where appropriate and determined by State Council, a local
+    councillor selected by the local council representatives shall be
+    added to the PWG.
 
 3.  Where an extraordinary vacancy exists after an election has been
-    > held, PWG members may be appointed by approval of the State
-    > Council.
+    held, PWG members may be appointed by approval of the State
+    Council.
 
 4.  Members have an obligation to actively participate in and contribute
-    > to the development or review of a policy.
+    to the development or review of a policy.
 
 5.  A membership attendance list will be kept and registered with the
-    > State Secretary.
+    State Secretary.
 
 6.  Attendance and participation at meetings, as per meeting procedures
-    > below, is open to all members of the AGV.
+    below, is open to all members of the AGV.
 
 7.  A PWG member will cease to be a member following absence from three
-    > consecutive meetings without notice, provided that the Convener
-    > may grant special leave of absence from meetings of the PWG to any
-    > member.
+    consecutive meetings without notice, provided that the Convener
+    may grant special leave of absence from meetings of the PWG to any
+    member.
 
 ### OFFICE BEARERS 
 
 1.  Members of the PWG shall annually elect from among themselves a
-    > Convener and Secretary.
+    Convener and Secretary.
 
 2.  Where an extraordinary vacancy exists, an office bearer may by
-    > appointed by agreement of the PWG.
+    appointed by agreement of the PWG.
 
 ### MEETINGS 
 
 1.  The PWG shall meet at least once per quarter, either in person or
-    > remotely.
+    remotely.
 
 2.  Notice of meetings will be advertised in advance through the AGV
-    > e-bulletin, and per email to branch secretaries and members
-    > registered with the PWG.
+    e-bulletin, and per email to branch secretaries and members
+    registered with the PWG.
 
 3.  A quorum of any meeting of the PWG shall be at least half of PWG
-    > members.
+    members.
 
 4.  A meeting agenda will be provided to all PWG members and other AGV
-    > members registered with the PWG prior to the meeting, and will be
-    > confirmed at the beginning of the meeting.
+    members registered with the PWG prior to the meeting, and will be
+    confirmed at the beginning of the meeting.
 
 5.  Actions agreed and decisions made at a previous meeting will be
-    > taken as ‘not for further discussion’, unless a specific agenda
-    > item with a written proposal is forwarded to the Convener prior to
-    > the meeting.
+    taken as ‘not for further discussion’, unless a specific agenda
+    item with a written proposal is forwarded to the Convener prior to
+    the meeting.
 
 6.  Decisions are generally made by consensus of all present at a
-    > meeting. However, in the event that consensus cannot be reached, a
-    > 75% majority of PWG members present can be taken as the decision.
+    meeting. However, in the event that consensus cannot be reached, a
+    75% majority of PWG members present can be taken as the decision.
 
 ### REPORTING AND ACCOUNTABILITY 
 
 1.  A list of decisions made by the PWG will be minuted and distributed
-    > to members of the PWG and to the Policy Committee.
+    to members of the PWG and to the Policy Committee.
 
 2.  The Convener will keep the State Council and Policy Committee
-    > informed of progress and activities as appropriate, with an annual
-    > written report on the group’s activities.
+    informed of progress and activities as appropriate, with an annual
+    written report on the group’s activities.
 
 3.  The Convener must respond to any written correspondence from the
-    > Policy Convener or State Secretary.
+    Policy Convener or State Secretary.
 
 4.  In the event that the PWG fails to meet its minimum meeting and
-    > reporting requirements, or in any instance where the PWG is seen
-    > to be breaching party rules, the State Council may choose to
-    > dissolve the group.
+    reporting requirements, or in any instance where the PWG is seen
+    to be breaching party rules, the State Council may choose to
+    dissolve the group.
 
 5.  The PWG shall not make any public statements without the prior
-    > approval of the relevant AGV spokesperson.
+    approval of the relevant AGV spokesperson.
 
 ### POLICY CONTENT CHANGES 
 
 1.  Any agreed recommendations for policy changes by the PWG are to be
-    > presented to the Policy Committee for review and presentation to
-    > State Council for ratification. Whether the recommendations have
-    > been agreed by consensus or by the standard 75% vote shall be
-    > indicated to the Policy Committee.
+    presented to the Policy Committee for review and presentation to
+    State Council for ratification. Whether the recommendations have
+    been agreed by consensus or by the standard 75% vote shall be
+    indicated to the Policy Committee.
 
 
 ## Modification History

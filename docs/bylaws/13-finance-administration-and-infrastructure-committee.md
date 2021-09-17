@@ -66,7 +66,7 @@ Administration By-law](./23-expenditure-administration.md).
         2.  An unanticipated saving or an unanticipated windfall in
             respect of an activity or item within a budget line.
 
-> But not;
+But not;
 
 1.  So as to increase the overall projected deficit or to reduce the
     projected surplus beyond what was set by State Council in respect of
@@ -80,34 +80,35 @@ Administration By-law](./23-expenditure-administration.md).
     Committee, without its consent (but this may be recommended to the
     Executive).
 
-> And;
+And;
 
 1.  To avoid doubt, in making an adjustment of the type described by
     (a). above, then subject only to (c) to (e), action may include
     reduction in other items provided that items such as contingencies
     are used first.
 
-> To avoid doubt, nothing in these functions is taken to limit the
-> powers of the State Executive to act in relation to any of the matters
-> listed above.
+To avoid doubt, nothing in these functions is taken to limit the
+powers of the State Executive to act in relation to any of the matters
+listed above.
 
 ## Composition
 
 1.  The Finance Administration and Infrastructure Committee shall
     consist of:
 
+    <subclause-letters>
 
+    1. An Executive member (to be Convenor of the Committee);
 
-1.  An Executive member (to be Convenor of the Committee);
+    2. the State Treasurer;
 
-2.  the State Treasurer;
+    3. the State Secretary, or in their absence, the Assistant State Secretary;
 
-3.  the State Secretary, or in their absence, the Assistant State
-    > Secretary;
+    4. the Assistant Treasurer (whenever this position is filled);
 
-4.  the Assistant Treasurer (whenever this position is filled);
+    5. 4 General Members
 
-5.  4 General Members
+    </subclause-letters>
 
 
 ## Modification History

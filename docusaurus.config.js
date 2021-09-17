@@ -1,12 +1,11 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const remarkJargon = require('remark-jargon');
 const remarkFootnotes = require('remark-footnotes');
 const remarkAdmonitions = require('remark-admonitions');
-const acronymsPlugin = require('./acronyms');
-const agvJargon = require('./agv-jargon');
+const definitionsPlugin = require('./definitions');
 const bylawLinksPlugin = require('./bylawlinksplugin');
 const highlightPlugin = require('./highlight');
+const subnumberingPlugin = require('./subnumbering');
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
@@ -32,7 +31,6 @@ const highlightPlugin = require('./highlight');
           // Please change this to your repo.
           editUrl: undefined,
           remarkPlugins: [
-            [remarkJargon, { jargon: agvJargon }],
             [remarkFootnotes, { }],
             [remarkAdmonitions, {
               tag: ":::",
@@ -46,7 +44,7 @@ const highlightPlugin = require('./highlight');
               }
             }],
             [bylawLinksPlugin, {}],
-            [acronymsPlugin, { acronyms: {
+            [definitionsPlugin, { definitions: {
               "AA": "Affirmative Action",
               "AEC": "Australian Electoral Commission",
               "AF": "Audit and Finance Committee",
@@ -223,6 +221,7 @@ const highlightPlugin = require('./highlight');
       },
     ],
     [highlightPlugin, {}],
+    [subnumberingPlugin, {}],
     // [
     //   require.resolve('docusaurus-plugin-papersaurus'),
     //   {
@@ -258,7 +257,9 @@ const highlightPlugin = require('./highlight');
         },
         items: [
           {to: '/bylaws', label: 'By-laws', position: 'left'},
+          {to: '/constitution', label: 'Constitution', position: 'left'},
           {to: '/proposed-constitution', label: 'Proposed Constitution', position: 'left'},
+          {to: '/terms-of-reference', label: 'Terms of Reference', position: 'left'},
           {to: '/charter', label: 'Charter', position: 'left'}
         ],
       },

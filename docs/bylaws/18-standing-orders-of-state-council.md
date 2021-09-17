@@ -85,10 +85,10 @@ Constitution and by-laws.
 
         3.  be recorded in the minutes, with brief details.
 
-> Any State Councillor who has a material person interest must not be
-> present, block consensus or vote while the relevant matter is being
-> considered, and must disclose the nature and extent of their interest
-> in the matter at the next State Conference.
+Any State Councillor who has a material person interest must not be
+present, block consensus or vote while the relevant matter is being
+considered, and must disclose the nature and extent of their interest
+in the matter at the next State Conference.
 
 ## Quorum
 
@@ -205,41 +205,41 @@ for the time being.
 
     1.  If a Proposal is dealt with in the usual way:
 
-        1.  *PROPOSAL \[number\]: that \[text of proposal in full\].*
+        1.  *PROPOSAL [number]: that [text of proposal in full].*
 
-        2.  *PROPOSAL \[number\] \[not\] agreed to.*
+        2.  *PROPOSAL [number] [not] agreed to.*
 
     2.  If a Proposal lapses:
 
-        1.  *PROPOSAL \[number\]: that \[text of proposal in full\].*
+        1.  *PROPOSAL [number]: that [text of proposal in full].*
 
         2.  *A procedural question, “that the proposal lapse”, was
             agreed to.*
 
-        3.  *PROPOSAL \[number\] lapsed.*
+        3.  *PROPOSAL [number] lapsed.*
 
     3.  If a Proposal is deferred:
 
-        1.  *PROPOSAL \[number\]: that \[text of proposal in full\].*
+        1.  *PROPOSAL [number]: that [text of proposal in full].*
 
         2.  *A procedural question, “that the Proposal be considered at
-            \[a later time this day / the next meeting\]”, was agreed
+            [a later time this day / the next meeting]”, was agreed
             to.*
 
-        3.  *PROPOSAL \[number\] deferred.*
+        3.  *PROPOSAL [number] deferred.*
 
     4.  If a Proposal is put to a vote as required by a procedural
         question being agreed to:
 
-        1.  *PROPOSAL \[number\]: that \[text of proposal in full\].*
+        1.  *PROPOSAL [number]: that [text of proposal in full].*
 
-        2.  *PROPOSAL \[number\] not agreed to.*
+        2.  *PROPOSAL [number] not agreed to.*
 
         3.  *A procedural question “that the proposal be put to a vote”
             was agreed to.*
 
-        4.  *PROPOSAL \[number\] was put to a vote and was \[not\]
-            agreed to (\[number\] Ayes; \[number\] Noes; \[number\]
+        4.  *PROPOSAL [number] was put to a vote and was [not]
+            agreed to ([number] Ayes; [number] Noes; [number]
             Abstentions).*
 
 48.3 A substantive motion carried by vote, unless provided for elsewhere
@@ -340,7 +340,7 @@ for or against
             for consensus. It should only be put if it has become
             apparent that a decision on the matter is not required.
 
-    6.  “that Proposal \[number\] be now considered”
+    6.  “that Proposal [number] be now considered”
 
         1.  The effect of this procedural question being agreed is to
             consider a Proposal in a different order to that stated on
@@ -377,14 +377,14 @@ if it is supported by at least a 75 per cent majority.
         total recorded in the minutes, the totals will be amended to
         reflect the list.
 
-2.  “that a Proposal regarding \[very short description of substance of
-    proposal\] be considered”
+2.  “that a Proposal regarding [very short description of substance of
+    proposal] be considered”
 
     1.  The effect of this procedural question being agreed is for State
         Council to consider a Proposal that did not appear on the
         agenda.
 
-3.  “that consideration of this agenda item be extended for \[number\]
+3.  “that consideration of this agenda item be extended for [number]
     minutes”
 
     1.  The effect of this procedural question being agreed is to extend
@@ -416,7 +416,7 @@ if it is supported by at least a 75 per cent majority.
 
     2.  It must only be raised in the most serious of cases.
 
-7.  “that \[Name\] cease raising procedural questions”
+7.  “that [Name] cease raising procedural questions”
 
     1.  The effect of this procedural question being agreed is to
         disallow any one State Councillor from raising procedural
@@ -424,15 +424,15 @@ if it is supported by at least a 75 per cent majority.
 
     2.  It must only be raised in the most serious of cases.
 
-8.  “that the standing orders be suspended for \[number\] minutes to
-    allow for \[details of matter\]”
+8.  “that the standing orders be suspended for [number] minutes to
+    allow for [details of matter]”
 
     1.  The effect of this procedural question being agreed is to
         suspend the standing orders for a determined amount of time.
 
-9.  “that the meeting go in camera to discuss \[details of matter\]”
-    and, if necessary, “and that \[observers’ names\] be permitted to
-    stay due to \[short rationale\]”
+9.  “that the meeting go in camera to discuss [details of matter]”
+    and, if necessary, “and that [observers’ names] be permitted to
+    stay due to [short rationale]”
 
     1.  The effect of this procedural question being agreed is for the
         meeting to go in camera and, if necessary, for certain observers
@@ -445,7 +445,7 @@ if it is supported by at least a 75 per cent majority.
 
 1.  Procedural questions will be minuted consistently as follows:
 
-A procedural question, “that \[text of question\]”, was \[not\] agreed
+A procedural question, “that [text of question]”, was [not] agreed
 to.
 
 1.  Unlike for the recording of the outcomes of Proposals, if procedural
@@ -529,15 +529,15 @@ to.
         Committee, if present, (and in any case the facilitator of the
         meeting) within 30 minutes of the commencement of the meeting;
 
-> and stating the Decision to which objection is taken and briefly
-> stating the grounds of objection.
+and stating the Decision to which objection is taken and briefly
+stating the grounds of objection.
 
 1.  State Councillors must not object pro forma.
 
 2.  The giving of this notice shall permit a procedural proposal to be
     put as follows by “That State Council considers proposals for the
-    disallowance or amendment of the \[identified\] Decision of the
-    \[named\] Standing Committee”.
+    disallowance or amendment of the [identified] Decision of the
+    [named] Standing Committee”.
 
 3.  After allowing not less than one speaker in favour of the procedural
     proposal, it shall be put to a vote, and if carried, the Agenda of
@@ -588,10 +588,10 @@ to.
     3.  Whether the item needs to be listed for discussion, and if so at
         the present meeting or at a later meeting.
 
-> It is the responsibility of the State Secretary or Assistant Secretary
-> (as the case may be) to bring back to the meeting a procedural
-> proposal for a course of action in respect of each Recommendation,
-> consistent with the above.
+It is the responsibility of the State Secretary or Assistant Secretary
+(as the case may be) to bring back to the meeting a procedural
+proposal for a course of action in respect of each Recommendation,
+consistent with the above.
 
 1.  Recommendations which do not meet the definition of on notice (7
     clear days) must either be listed for discussion, or deferred to the

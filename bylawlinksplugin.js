@@ -100,16 +100,18 @@ module.exports = function bylawLinksPlugin({
         return;
       }
       const slug = generateSlug(child.id, links);
-      let mustnotDelegate = powersStateCouncilMustNotDelegate.includes(slug);
       let clauseAnnotations = [];
-      if (mustnotDelegate && !isSchedule) {
-        clauseAnnotations.push('nodelegate');
-      }
-      if (clauseDates[slug] && !isSchedule) {
-        clauseAnnotations.push(`effectivefrom="${clauseDates[slug]}"`);
-      }
-      if (clausesMentioningDays.includes(slug) && !isSchedule) {
-        clauseAnnotations.push('days');
+      if (file.history[0].indexOf('proposed-constitution') !== -1) {
+        let mustnotDelegate = powersStateCouncilMustNotDelegate.includes(slug);
+        if (mustnotDelegate && !isSchedule) {
+          clauseAnnotations.push('nodelegate');
+        }
+        if (clauseDates[slug] && !isSchedule) {
+          clauseAnnotations.push(`effectivefrom="${clauseDates[slug]}"`);
+        }
+        if (clausesMentioningDays.includes(slug) && !isSchedule) {
+          clauseAnnotations.push('days');
+        }
       }
       if (child.children && is(child.children[0], 'paragraph')) {
         if (clauseAnnotations.length > 0) {

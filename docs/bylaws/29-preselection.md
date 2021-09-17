@@ -22,10 +22,10 @@ electorate in question.
 Ward/Electorate boundaries: The electoral (or ward) boundaries used for
 selecting eligible voters will be:
 
-> a\) the boundaries that will be used at the election, if they have
-> been finalised and gazetted;
+a\) the boundaries that will be used at the election, if they have
+been finalised and gazetted;
 >
-> b\) otherwise, the current boundaries.
+b\) otherwise, the current boundaries.
 
 ## Scope
 
@@ -43,13 +43,13 @@ selecting eligible voters will be:
 
 
 1.  to work with a campaign team to achieve local and state goals and
-    > targets;
+    targets;
 
 2.  to clearly articulate Greens’ value, policies and key campaign
-    > messages;
+    messages;
 
 3.  to effectively represent Greens values and implement Greens policies
-    > when holding public office.
+    when holding public office.
 
 ## Returning Officer
 
@@ -135,43 +135,43 @@ selecting eligible voters will be:
 
 
 1.  Their nomination in a form prescribed by the Returning Officer,
-    > including an agreement to abide by the Code of Conduct, Tithing
-    > bylaw, and Confidential Information bylaw;
+    including an agreement to abide by the Code of Conduct, Tithing
+    bylaw, and Confidential Information bylaw;
 
 2.  A statement for eligible voters, of no more than 800 words, which
-    > shall include how long the member has been a member, the name of
-    > the Branch to which the member is registered, a brief list of
-    > positions held by the member within the party and previous
-    > candidacies for public office, and any other information the
-    > member sees fit to include, which should generally include the
-    > member’s political and philosophical positions on key issues
-    > facing the party and the position being elected;
+    shall include how long the member has been a member, the name of
+    the Branch to which the member is registered, a brief list of
+    positions held by the member within the party and previous
+    candidacies for public office, and any other information the
+    member sees fit to include, which should generally include the
+    member’s political and philosophical positions on key issues
+    facing the party and the position being elected;
 
 3.  Statements of support of up to 200 words from four other members for
-    > the purposes of preselections for lead upper house Federal or
-    > State electorates, or from two other members for the purposes of
-    > all other preselections. Statements of support must not be
-    > provided by current AGV staff, State Office Bearers, campaign
-    > committee office bearers, candidates for public office, or elected
-    > representatives. Statements of support may include how long the
-    > supporting member has been a member, the name of the Branch to
-    > which the supporting member is registered, and any other
-    > information the supporting member may wish to include. The
-    > statement may be augmented by up to 75 words in order to include a
-    > brief list of positions held by the supporting member within the
-    > party, including previous candidacies for public office;
+    the purposes of preselections for lead upper house Federal or
+    State electorates, or from two other members for the purposes of
+    all other preselections. Statements of support must not be
+    provided by current AGV staff, State Office Bearers, campaign
+    committee office bearers, candidates for public office, or elected
+    representatives. Statements of support may include how long the
+    supporting member has been a member, the name of the Branch to
+    which the supporting member is registered, and any other
+    information the supporting member may wish to include. The
+    statement may be augmented by up to 75 words in order to include a
+    brief list of positions held by the supporting member within the
+    party, including previous candidacies for public office;
 
 4.  A clear photo of themselves (optional);
 
 5.  A signed Statutory Declaration attesting to the correctness of the
-    > Preselection and Probity Forms, and agreeing to a Police Check if
-    > the Returning Officer, Probity Panel, Victorian Campaign
-    > Committee, or State Executive deem it necessary;
+    Preselection and Probity Forms, and agreeing to a Police Check if
+    the Returning Officer, Probity Panel, Victorian Campaign
+    Committee, or State Executive deem it necessary;
 
 6.  Nominees for federal elections only: A truthfully completed copy of
-    > the Australian Electoral Commission document regarding section 44
-    > of the *Commonwealth Constitution* called the ‘Qualification
-    > Checklist: Relating to Section 44 of the Constitution.’
+    the Australian Electoral Commission document regarding section 44
+    of the *Commonwealth Constitution* called the ‘Qualification
+    Checklist: Relating to Section 44 of the Constitution.’
 
 
 
@@ -242,7 +242,7 @@ selecting eligible voters will be:
 
 
 1.  by any means, directly or indirectly, make a statement canvassing
-    > for or against votes for any nominee; or
+    for or against votes for any nominee; or
 
 2.  provide any resources to aid any nominee.
 
@@ -267,18 +267,18 @@ selecting eligible voters will be:
 
 
 1.  for senate elections hold at least 1 event per state legislative
-    > council region
+    council region
 
 2.  for federal divisions hold at least 1 event per division
 
 3.  for state legislative council regions hold at least 2 events per
-    > region
+    region
 
 4.  for state legislative assembly districts hold at least 1 event per
-    > district
+    district
 
 5.  for local government elections hold at least 1 event per local
-    > government municipality
+    government municipality
 
 6.  for by-elections hold at least 1 event for that by-election.
 
@@ -293,13 +293,13 @@ selecting eligible voters will be:
 1.  ask questions of any nominees;
 
 2.  make statements about who eligible voters should vote for or
-    > against; and
+    against; and
 
 
 
 1.  make statements about the issues facing the party and the position
-    > being elected that they believe should be taken into account by
-    > eligible voters.
+    being elected that they believe should be taken into account by
+    eligible voters.
 
 
 
@@ -328,23 +328,23 @@ selecting eligible voters will be:
 3.  Attendance ballot;
 
 4.  Selection panel, but only if State Council or the Victorian Campaign
-    > Committee has agreed and either:
+    Committee has agreed and either:
 
 
 
 1.  the Greens primary vote in the previous election for the electorate
-    > concerned was less than 8 per cent; or
+    concerned was less than 8 per cent; or
 
 2.  the position being preselected is a non-lead candidate for any
-    > Federal or State upper house electorate; or
+    Federal or State upper house electorate; or
 
 3.  less than 16 weeks remain until the election date, for Federal,
-    > State and Local elections;
+    State and Local elections;
 
 
 
 1.  Any other method, but only if proposed rules for that method are
-    > approved by the Victorian Campaign Committee.
+    approved by the Victorian Campaign Committee.
 
 
 
@@ -354,53 +354,53 @@ selecting eligible voters will be:
 
 
 1.  all nominees who have successfully passed probity will be
-    > interviewed by the panel;
+    interviewed by the panel;
 
 2.  a “Meet the Candidates” event need not be held;
 
 3.  the panel shall have 4 members or 5 members, including at least one
-    > office bearer of the body conducting the preselection and at least
-    > one party member who has previously stood for election as an
-    > endorsed Greens candidate;
+    office bearer of the body conducting the preselection and at least
+    one party member who has previously stood for election as an
+    endorsed Greens candidate;
 
 4.  where possible, the membership of the Selection Panel shall include
-    > at least one person from each branch within the electorate;
+    at least one person from each branch within the electorate;
 
 5.  all nominees shall be interviewed by the Selection Panel at any time
-    > after Probity has been completed on all nominees. Where possible
-    > this shall be in person;
+    after Probity has been completed on all nominees. Where possible
+    this shall be in person;
 
 6.  all candidates shall be allotted the same amount of time by the
-    > selection panel, although any interview may be extended at the
-    > discretion of the Selection Panel as required;
+    selection panel, although any interview may be extended at the
+    discretion of the Selection Panel as required;
 
 7.  the Selection Panel shall meet prior to the interviews and decide on
-    > a pre-prepared list of questions prior to conducting interviews
-    > with nominees. Nominees shall not be advised of these questions
-    > prior to the interview. Each nominee shall be given the
-    > opportunity to answer each pre- prepared question within the
-    > allotted interview time;
+    a pre-prepared list of questions prior to conducting interviews
+    with nominees. Nominees shall not be advised of these questions
+    prior to the interview. Each nominee shall be given the
+    opportunity to answer each pre- prepared question within the
+    allotted interview time;
 
 8.  the Selection Panel shall allow each nominee an opportunity to
-    > introduce themselves and explain why they would be an appropriate
-    > candidate for the electorate. The Selection Panel may ask
-    > supplementary questions which arise during the course of the
-    > interview;
+    introduce themselves and explain why they would be an appropriate
+    candidate for the electorate. The Selection Panel may ask
+    supplementary questions which arise during the course of the
+    interview;
 
 9.  each nominee shall be interviewed separately and privately, with
-    > only members of the Selection Panel, the Returning Officer and the
-    > nominee in attendance;
+    only members of the Selection Panel, the Returning Officer and the
+    nominee in attendance;
 
 10. decisions will be made by consensus or failing that by a vote at
-    > which a majority of 75% will be required to confirm a nominee as a
-    > candidate or to reopen nominations. Should consensus not be
-    > achieved or a majority not be obtained in a vote nominations will
-    > be reopened;
+    which a majority of 75% will be required to confirm a nominee as a
+    candidate or to reopen nominations. Should consensus not be
+    achieved or a majority not be obtained in a vote nominations will
+    be reopened;
 
 11. the panel will notify the Returning Officer of their decision as
-    > soon as is practicable. The Returning Officer will notify the
-    > Victorian Campaign Committee immediately following receiving
-    > notification.
+    soon as is practicable. The Returning Officer will notify the
+    Victorian Campaign Committee immediately following receiving
+    notification.
 
 ## Ballots
 
@@ -425,14 +425,14 @@ selecting eligible voters will be:
 
 
 1.  The ballot (if it is a paper ballot it must be signed by the
-    > Returning Officer at the point of issue);
+    Returning Officer at the point of issue);
 
 2.  Return-addressed reply-paid or stamped envelopes, and secret
-    > envelopes, if the ballot is conducted by post;
+    envelopes, if the ballot is conducted by post;
 
 3.  A document, or a link to a document, containing each candidate’s
-    > statement, photo (if provided) and the statements of their
-    > nominators, as well as voting instructions; and
+    statement, photo (if provided) and the statements of their
+    nominators, as well as voting instructions; and
 
 4.  a reminder of the need for diversity.
 
@@ -487,48 +487,48 @@ selecting eligible voters will be:
 
 
 1.  all affected electorates are considered open for nominations where a
-    > candidate has not already been preselected for a future election,
-    > except where the Victorian Campaign Committee determines otherwise
-    > (for example if a particular preselection is about to be concluded
-    > anyway);
+    candidate has not already been preselected for a future election,
+    except where the Victorian Campaign Committee determines otherwise
+    (for example if a particular preselection is about to be concluded
+    anyway);
 
 2.  the Victorian Campaign Committee:
 
 
 
 1.  may exercise all the powers of State Council in relation to Chapter
-    > 5 of the Constitution;
+    5 of the Constitution;
 
 2.  will issue a call for nominations for all affected electorates for
-    > which a candidate has not already been preselected for a future
-    > election;
+    which a candidate has not already been preselected for a future
+    election;
 
 3.  will assist branches and other campaigning bodies with conducting
-    > preselections in the most timely manner possible but will in any
-    > regards have the ability to appoint by selection panel a candidate
-    > to represent the AGV to any electorate which remains unfilled 4
-    > days before the deadline for submitting candidate names to the
-    > relevant Electoral Commission.
+    preselections in the most timely manner possible but will in any
+    regards have the ability to appoint by selection panel a candidate
+    to represent the AGV to any electorate which remains unfilled 4
+    days before the deadline for submitting candidate names to the
+    relevant Electoral Commission.
 
 
 
 1.  the State Returning Officer becomes the Returning Officer for any
-    > electorate for which a Returning Officer has not been appointed.
-    > They may, at their discretion, appoint Deputy Returning Officers
-    > to aid them in their duties. The requirements that Returning
-    > Officers, deputy or otherwise, remain uninvolved in other
-    > preselection matters must be observed.
+    electorate for which a Returning Officer has not been appointed.
+    They may, at their discretion, appoint Deputy Returning Officers
+    to aid them in their duties. The requirements that Returning
+    Officers, deputy or otherwise, remain uninvolved in other
+    preselection matters must be observed.
 
 2.  the Probity Panel will have until 48 hours after the close of
-    > nominations for preselection to conclude its duties.
+    nominations for preselection to conclude its duties.
 
 3.  the default method of preselection will be assumed to be either
-    > electronic ballot or preselection panel. Other methods may be
-    > approved by the VCC on a case by case basis.
+    electronic ballot or preselection panel. Other methods may be
+    approved by the VCC on a case by case basis.
 
 4.  a decision to appoint a candidate by preselection panel still
-    > requires concurrent decisions of the preselecting body and the
-    > VCC, or the VCC and the State Executive.
+    requires concurrent decisions of the preselecting body and the
+    VCC, or the VCC and the State Executive.
 
 ## Eligibility
 

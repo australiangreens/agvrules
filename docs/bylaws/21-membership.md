@@ -26,13 +26,13 @@ number: 21
 1.  The annual amount of membership fees payable will be paid by each
     member as follows:
 
-> $1 First Nations
->
-> $30 Concession
->
-> $90 Regular
->
-> $180 Keen Green
+$1 First Nations
+
+$30 Concession
+
+$90 Regular
+
+$180 Keen Green
 
 1.  From February 15<sup>th</sup> 2021 to March 31<sup>st</sup> 2021,
     the following have the option of an initial membership fee of $5 for
@@ -40,9 +40,9 @@ number: 21
     of membership, the member will pay an annual fee outlined in
     clause 4.
 
-> i\) University or TAFE students
->
-> ii\) Those aged 30 or under
+i) University or TAFE students
+
+ii) Those aged 30 or under
 
 1.  Members may make arrangements to pay membership fees in instalments.
 
