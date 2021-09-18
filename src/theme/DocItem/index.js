@@ -18,7 +18,6 @@ import styles from './styles.module.css';
 import {ThemeClassNames} from '@docusaurus/theme-common';
 import OriginalDocument from '../../components/OriginalDocument';
 export default function DocItem(props) {
-  console.log(props);
   const {content: DocContent, versionMetadata} = props;
   const {metadata, frontMatter} = DocContent;
   const {

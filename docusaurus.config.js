@@ -6,6 +6,7 @@ const definitionsPlugin = require('./definitions');
 const bylawLinksPlugin = require('./bylawlinksplugin');
 const highlightPlugin = require('./highlight');
 const subnumberingPlugin = require('./subnumbering');
+const webpackPlugin = require('./webpackplugin');
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
@@ -222,6 +223,7 @@ const subnumberingPlugin = require('./subnumbering');
     ],
     [highlightPlugin, {}],
     [subnumberingPlugin, {}],
+    [webpackPlugin, {}],
     // [
     //   require.resolve('docusaurus-plugin-papersaurus'),
     //   {
