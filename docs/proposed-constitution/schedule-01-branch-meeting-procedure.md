@@ -1,5 +1,8 @@
 ---
 title: "Schedule 1: Branch meeting procedure"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [13]
 ---
 
 :::effectivefrom Timing
@@ -28,10 +31,9 @@ a branch office bearer would have an unlimited term).
     1.  in accordance with any procedure made under item 6;
 
     2.  in the absence or failure of any such procedure—in accordance with
-    any procedure made by State Council; and
+        any procedure made by State Council; and
 
     3.  in exceptional circumstances—by State Council.
-
 
 2. ## Notice
 
@@ -72,40 +74,37 @@ a branch office bearer would have an unlimited term).
     4.  A proposal that is put to a vote is passed if it meets the
         following requirements:
 
-    <table>
-    <colgroup>
-    <col style={{width: "30%"}} />
-    <col style={{width: "69%"}} />
-    </colgroup>
-    <thead>
-    <tr className="header">
-    <th><strong>Type</strong></th>
-    <th><strong>Requirements</strong></th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr className="odd">
-    <td>Procedural proposal</td>
-    <td>A majority of branch members in attendance who vote on the proposal vote in favour</td>
-    </tr>
-    <tr className="even">
-    <td>Substantive proposal</td>
-    <td>At least two thirds of the branch members in attendance who vote on the proposal vote in favour</td>
-    </tr>
-    </tbody>
-    </table>
+     <table>
+     <colgroup>
+     <col style={{width: "30%"}} />
+     <col style={{width: "69%"}} />
+     </colgroup>
+     <thead>
+     <tr className="header">
+     <th><strong>Type</strong></th>
+     <th><strong>Requirements</strong></th>
+     </tr>
+     </thead>
+     <tbody>
+     <tr className="odd">
+     <td>Procedural proposal</td>
+     <td>A majority of branch members in attendance who vote on the proposal vote in favour</td>
+     </tr>
+     <tr className="even">
+     <td>Substantive proposal</td>
+     <td>At least two thirds of the branch members in attendance who vote on the proposal vote in favour</td>
+     </tr>
+     </tbody>
+     </table>
 
 5. ## Proxies
 
     Proxy voting at branch meetings is not allowed.
 
-6. ## Additional procedures
+6.  ## Additional procedures
 
     1.  A branch may, by a substantive proposal, make additional meeting
         procedures that are consistent with these procedures.
 
     2.  State Council may revoke such procedures in exceptional
         circumstances.
-
-
-

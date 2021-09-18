@@ -2,6 +2,9 @@
 id: 26-assistant-treasurer
 title: 26 Assistant Treasurer
 number: 26
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [87]
 ---
 # Assistant Treasurer
 

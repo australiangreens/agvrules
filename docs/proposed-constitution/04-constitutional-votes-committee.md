@@ -1,5 +1,8 @@
 ---
 title: "Part 4: Constitutional Votes Committee"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [7,8]
 ---
 
 :::effectivefrom Timing

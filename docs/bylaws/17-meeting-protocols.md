@@ -2,6 +2,9 @@
 id: 17-meeting-protocols
 title: 17 Meeting Protocols
 number: 17
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [57,58,59]
 ---
 # Meeting Protocols
 

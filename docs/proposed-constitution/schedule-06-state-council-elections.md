@@ -1,5 +1,8 @@
 ---
 title: "Schedule 6: State Council elections"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [21,22,23]
 ---
 
 :::effectivefrom Timing

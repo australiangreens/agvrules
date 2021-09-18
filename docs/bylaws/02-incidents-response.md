@@ -2,6 +2,9 @@
 id: 02-incidents-response
 title: 02 Incidents Response
 number: 02
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [5,6]
 ---
 # Incidents Response
 

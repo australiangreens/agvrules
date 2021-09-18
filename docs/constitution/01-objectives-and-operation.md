@@ -1,5 +1,8 @@
 ---
 title: Chapter 1 — Objectives and Operation
+original:
+    file: "AGV_constitution_7Nov2020.pdf"
+    pages: [3,4,5]
 ---
 
 1. ## The Australian Greens Victoria

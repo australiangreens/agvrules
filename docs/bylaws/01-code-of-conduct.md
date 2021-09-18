@@ -2,6 +2,9 @@
 id: 01-code-of-conduct
 title: 01 Code of Conduct
 number: 01
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [3,4]
 ---
 # Code of Conduct
 

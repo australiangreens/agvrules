@@ -1,5 +1,8 @@
 ---
 title: "Schedule 5: State Council meeting procedure"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [19,20]
 ---
 
 :::effectivefrom Timing

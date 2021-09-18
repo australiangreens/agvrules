@@ -1,5 +1,8 @@
 ---
 title: Chapter 7 — Party Administration
+original:
+    file: "AGV_constitution_7Nov2020.pdf"
+    pages: [42,43,44,45,46]
 ---
 
 64. ## The Greens Victoria Inc.

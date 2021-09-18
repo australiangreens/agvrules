@@ -2,6 +2,9 @@
 id: 27-mutual-responsibilities-between-elected-representatives-and-party-bodies-officers-and-members
 title: 27 Mutual Responsibilities Between Elected Representatives and Party Bodies, Officers and Members
 number: 27
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [88,89]
 ---
 # Mutual Responsibilities Between Elected Representatives and Party Bodies, Officers and Members
 

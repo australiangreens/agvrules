@@ -1,5 +1,8 @@
 ---
 title: "Part 5: Membership"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [9]
 ---
 
 :::effectivefrom Timing

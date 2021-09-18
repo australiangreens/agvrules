@@ -1,5 +1,8 @@
 ---
 title: "Schedule 4: Powers State Council must not delegate"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [18]
 ---
 
 :::effectivefrom Timing

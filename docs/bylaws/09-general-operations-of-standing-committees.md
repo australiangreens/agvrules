@@ -2,6 +2,9 @@
 id: 09-general-operations-of-standing-committees
 title: 09 General Operations of Standing Committees
 number: 09
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [30,31,32,33]
 ---
 # General Operations of Standing Committees
 

@@ -1,0 +1,42 @@
+.original-document.react-toggle--checked .react-toggle-track {
+  background-color: #ed1c24;
+}
+
+.original-document.react-toggle--checked:hover:not(.react-toggle--disabled) .react-toggle-track {
+  background-color: #ed1c24;
+}
+
+.original-document.react-toggle--checked .react-toggle-thumb {
+  border-color: #ed1c24;
+}
+
+.original-document.react-toggle--focus .react-toggle-thumb {
+  box-shadow: 0px 0px 2px 3px #ed1c24;
+}
+
+.original-document.react-toggle:active:not(.react-toggle--disabled) .react-toggle-thumb {
+  box-shadow: 0px 0px 5px 5px #ed1c24;
+}
+
+.original-document.react-toggle--focus .react-toggle-thumb,
+.original-document.react-toggle:hover .react-toggle-thumb {
+  box-shadow: 0px 0px 2px 3px #ed1c24;
+}
+
+.original-document.react-toggle:active:not(.react-toggle--disabled) .react-toggle-thumb {
+  box-shadow: 0px 0px 5px 5px #ed1c24;
+}
+
+[data-theme='dark'] .original-document.react-toggle .react-toggle-thumb {
+  left: 1px;
+}
+
+[data-theme='dark'] .original-document.react-toggle--checked .react-toggle-thumb {
+  left: 27px;
+}
+
+@media only screen and (min-width: 997px) {
+  article .original-document.react-toggle {
+    display: none;
+  }
+}

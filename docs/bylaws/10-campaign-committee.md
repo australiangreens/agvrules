@@ -2,6 +2,9 @@
 id: 10-campaign-committee
 title: 10 Campaign Committee
 number: 10
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [34,35,36,37,38]
 ---
 # Campaign Committee
 

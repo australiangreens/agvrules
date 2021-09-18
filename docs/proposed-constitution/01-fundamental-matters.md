@@ -1,5 +1,8 @@
 ---
 title: "Part 1: Fundamental matters"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [2,3,4]
 ---
 
 :::effectivefrom Timing

@@ -1,5 +1,8 @@
 ---
 title: Chapter 2 — Members
+original:
+    file: "AGV_constitution_7Nov2020.pdf"
+    pages: [6,7,8,9,10]
 ---
 
 7. ## Application for Membership

@@ -1,5 +1,8 @@
 ---
 title: "Schedule 3: Members’ direct decision-making"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [15,16,17]
 ---
 
 :::effectivefrom Timing

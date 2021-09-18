@@ -1,5 +1,8 @@
 ---
 title: "Schedule 8: Definitions"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [26]
 ---
 
 :::effectivefrom Timing

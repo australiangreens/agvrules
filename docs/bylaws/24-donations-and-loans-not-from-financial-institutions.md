@@ -2,6 +2,9 @@
 id: 24-donations-and-loans-not-from-financial-institutions
 title: 24 Donations and Loans not from Financial Institutions
 number: 24
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [81,82,83]
 ---
 # Donations and Loans not from Financial Institutions
 

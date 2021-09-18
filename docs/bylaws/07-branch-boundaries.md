@@ -2,8 +2,10 @@
 id: 07-branch-boundaries
 title: 07 Branch Boundaries
 number: 07
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [24,25,26,27]
 ---
-# Branch Boundaries
 
 1.  Whereas, subject to Schedule 1, the Constitution prescribes that
     each Branch shall have a jurisdiction which corresponds to one or

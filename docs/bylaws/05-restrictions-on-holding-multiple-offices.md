@@ -2,6 +2,9 @@
 id: 05-restrictions-on-holding-multiple-offices
 title: 05 Restrictions on Holding Multiple Offices
 number: 05
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [16,17]
 ---
 # Restrictions on Holding Multiple Offices
 

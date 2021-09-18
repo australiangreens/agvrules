@@ -2,6 +2,9 @@
 id: 14-membership-engagement-committee
 title: 14 Membership Engagement Committee
 number: 14
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [47,48]
 ---
 # Membership Engagement Committee
 

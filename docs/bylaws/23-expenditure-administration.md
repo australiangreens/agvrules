@@ -2,6 +2,9 @@
 id: 23-expenditure-administration
 title: 23 Expenditure Administration
 number: 23
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [79,80]
 ---
 # Expenditure Administration
 

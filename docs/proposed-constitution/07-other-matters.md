@@ -1,5 +1,8 @@
 ---
 title: "Part 7: Other matters"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [11,12]
 ---
 
 :::effectivefrom Timing

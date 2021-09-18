@@ -2,6 +2,9 @@
 id: 20-social-media
 title: 20 Social Media
 number: 20
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [71,72,73]
 ---
 # Social Media
 

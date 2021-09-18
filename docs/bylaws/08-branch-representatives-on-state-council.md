@@ -2,6 +2,9 @@
 id: 08-branch-representatives-on-state-council
 title: 08 Branch Representatives on State Council
 number: 08
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [28,29]
 ---
 # Branch Representatives on State Council 
 

@@ -2,6 +2,9 @@
 id: 31-tithing
 title: 31 Tithing
 number: 31
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [108]
 ---
 # Tithing
 

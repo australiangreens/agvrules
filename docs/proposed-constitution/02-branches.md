@@ -1,5 +1,8 @@
 ---
 title: "Part 2: Branches"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [4,5,6]
 ---
 
 :::effectivefrom Timing

@@ -1,5 +1,8 @@
 ---
 title: "Schedule 2: Joint branch proposal to State Council"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [14]
 ---
 
 :::effectivefrom Timing

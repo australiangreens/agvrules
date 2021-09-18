@@ -2,6 +2,9 @@
 id: 18-standing-orders-of-state-council
 title: 18 Standing Orders of State Council
 number: 18
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [60,61,62,63,64,65,66,67]
 ---
 # Standing Orders of State Council
 

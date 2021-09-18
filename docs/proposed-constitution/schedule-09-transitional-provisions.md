@@ -1,5 +1,8 @@
 ---
 title: "Schedule 9: Transitional provisions"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [27,28]
 ---
 
 :::effectivefrom Timing

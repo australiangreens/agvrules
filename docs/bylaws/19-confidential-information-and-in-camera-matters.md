@@ -2,6 +2,9 @@
 id: 19-confidential-information-and-in-camera-matters
 title: 19 Confidential Information and In Camera Matters
 number: 19
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [68,69,70]
 ---
 # Confidential Information and In Camera Matters
 

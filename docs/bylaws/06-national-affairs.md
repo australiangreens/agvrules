@@ -2,6 +2,9 @@
 id: 06-national-affairs
 title: 06 National Affairs
 number: 06
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [18,19,20,21,22,23]
 ---
 # National Affairs
 

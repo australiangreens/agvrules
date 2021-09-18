@@ -2,6 +2,9 @@
 id: 25-travel-and-reimbursement
 title: 25 Travel and Reimbursement
 number: 25
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [84,85,86]
 ---
 # Travel and Reimbursement
 

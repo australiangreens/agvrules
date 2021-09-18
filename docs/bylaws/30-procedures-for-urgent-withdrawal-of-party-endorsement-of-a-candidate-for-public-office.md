@@ -2,6 +2,9 @@
 id: 30-procedures-for-urgent-withdrawal-of-party-endorsement-of-a-candidate-for-public-office
 title: 30 Procedures for Urgent Withdrawal of Party Endorsement of a Candidate for Public Office
 number: 30
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [106,107]
 ---
 # Procedures for Urgent Withdrawal of Party Endorsement of a Candidate for Public Office
 

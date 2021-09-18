@@ -1,5 +1,8 @@
 ---
 title: Chapter 10  — Misconduct
+original:
+    file: "AGV_constitution_7Nov2020.pdf"
+    pages: [50,51,52,53,54,55,56,57,58,59,60]
 ---
 
 

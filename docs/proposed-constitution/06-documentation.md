@@ -1,5 +1,8 @@
 ---
 title: "Part 6: Documentation"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [9,10]
 ---
 
 :::effectivefrom Timing

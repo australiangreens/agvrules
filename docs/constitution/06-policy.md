@@ -1,5 +1,8 @@
 ---
 title: Chapter 6 — Policy
+original:
+    file: "AGV_constitution_7Nov2020.pdf"
+    pages: [39,40,41,42]
 ---
 
 58. ## Overview

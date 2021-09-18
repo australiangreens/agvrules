@@ -1,5 +1,8 @@
 ---
 title: Chapter 8 — Mediation
+original:
+    file: "AGV_constitution_7Nov2020.pdf"
+    pages: [46,47]
 ---
 
 79. ## Procedure

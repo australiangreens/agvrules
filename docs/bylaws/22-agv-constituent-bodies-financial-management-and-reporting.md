@@ -2,6 +2,9 @@
 id: 22-agv-constituent-bodies-financial-management-and-reporting
 title: 22 AGV Constituent Bodies Financial Management and Reporting
 number: 22
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [76,77,78]
 ---
 # AGV Constituent Bodies Financial Management and Reporting
 

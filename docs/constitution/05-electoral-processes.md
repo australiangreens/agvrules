@@ -1,5 +1,8 @@
 ---
 title: Chapter 5 — Electoral Processes
+original:
+    file: "AGV_constitution_7Nov2020.pdf"
+    pages: [35,36,37,38,39]
 ---
 
 52. ## Overview

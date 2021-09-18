@@ -2,6 +2,9 @@
 id: 15-election-campaign-governance
 title: 15 Election Campaign Governance
 number: 15
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [49,50,51,52,53,54,55]
 ---
 # Election Campaign Governance
 

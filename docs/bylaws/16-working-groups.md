@@ -2,6 +2,9 @@
 id: 16-working-groups
 title: 16 Working Groups
 number: 16
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [56]
 ---
 # Working Groups
 

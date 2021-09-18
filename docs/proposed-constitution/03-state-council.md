@@ -1,5 +1,8 @@
 ---
 title: "Part 3: State Council"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [6,7]
 ---
 
 :::effectivefrom Timing

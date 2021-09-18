@@ -1,8 +1,9 @@
 ---
 title: Acknowledgement of Country
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [2]
 ---
-
-# Acknowledgement of Country
 
 The Australian Greens Victoria:
 

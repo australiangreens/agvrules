@@ -2,6 +2,9 @@
 id: 12-audit-and-finance-committee
 title: 12 Audit and Finance Committee
 number: 12
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [43,44]
 ---
 # Audit and Finance Committee
 

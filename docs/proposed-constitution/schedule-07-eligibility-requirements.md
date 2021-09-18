@@ -1,5 +1,8 @@
 ---
 title: "Schedule 7: Eligibility requirements"
+original:
+    file: "Proposed special resolution.pdf"
+    pages: [24,25]
 ---
 
 :::effectivefrom Timing

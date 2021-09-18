@@ -2,6 +2,9 @@
 id: 13-finance-administration-and-infrastructure-committee
 title: 13 Finance Administration and Infrastructure Committee
 number: 13
+original:
+    file: "AGV_Consolidated_By-laws_20-05-2021.pdf"
+    pages: [45,46]
 ---
 # Finance Administration and Infrastructure Committee
 
