@@ -192,7 +192,7 @@ b\) otherwise, the current boundaries.
     enquiry is needed to determine whether a nominee is presently
     eligible to be nominated for election or is reasonably likely to be
     able to become eligible in the time before nominations are required.
-    The _VCC_ may seek the assistance of appropriately qualified members
+    The VCC may seek the assistance of appropriately qualified members
     in making this decision. If the VCC decides that further enquiry is
     needed, the Returning Officer, after having consulted with the VCC
     as to how long these enquiries are likely to take, may refuse the

@@ -61,8 +61,6 @@ ii) Those aged 30 or under
     not to receive party communication by email, they are entitled to
     receive a hard copy notice.
 
-2.  
-
 
 ## Modification History
 
