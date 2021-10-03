@@ -2,7 +2,7 @@ const visit = require('unist-util-visit');
 const map = require('unist-util-map');
 const is = require('unist-util-is');
 
-const proposedConstitutionDefinitions = {
+const newConstitutionDefinitions = {
   "Australian Greens Victoria": undefined,
   "Electoral Act": undefined,
   "Australian Greens": "the Australian Greens (The Greens) Incorporated, incorporated under the *Associations Incorporation Act 1991* (ACT) with association number A02626",
@@ -48,7 +48,7 @@ module.exports = function definitionsPlugin({
   return function transformer(tree, file) {
     if (!definitions) return tree;
     if (file.history[0].indexOf('new-constitution') !== -1) {
-      definitions = Object.assign({}, definitions, proposedConstitutionDefinitions);
+      definitions = Object.assign({}, definitions, newConstitutionDefinitions);
     }
 
     const acronymsRegExp = new RegExp(`\\b(${Object.keys(definitions).join('|')})\\b`, 'gi');
