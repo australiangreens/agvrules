@@ -219,6 +219,7 @@ const webpackPlugin = require('./webpackplugin');
               const shorterLink = `/new-constitution/schedule-${parseInt(scheduleNumber)}`;
               return shortLink === shorterLink ? [...links,shortLink] : [...links, shortLink, shorterLink];
             }
+            return links;
           }
         },
       },
