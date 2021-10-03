@@ -47,7 +47,7 @@ module.exports = function definitionsPlugin({
 } = {}) {
   return function transformer(tree, file) {
     if (!definitions) return tree;
-    if (file.history[0].indexOf('proposed-constitution') !== -1) {
+    if (file.history[0].indexOf('new-constitution') !== -1) {
       definitions = Object.assign({}, definitions, proposedConstitutionDefinitions);
     }
 

@@ -4,7 +4,7 @@ const is = require('unist-util-is');
 const position = require('unist-util-position');
 const fs = require('fs');
 
-const powersStateCouncilMustNotDelegate = fs.readFileSync('docs/proposed-constitution/schedule-04-powers-state-council-must-not-delegate.md', 'utf-8').match(/<td>.*?<\/td>/g).map((cell) => {
+const powersStateCouncilMustNotDelegate = fs.readFileSync('docs/new-constitution/schedule-04-powers-state-council-must-not-delegate.md', 'utf-8').match(/<td>.*?<\/td>/g).map((cell) => {
   const clean = cell.replace('<td>', '').replace('</td>', '');
   if (clean.startsWith('Clause')) {
     if (clean.indexOf('and') !== -1) {
@@ -62,7 +62,7 @@ module.exports = function bylawLinksPlugin({
 } = {}) {
   return function transformer(tree, file) {
     const value = String(file)
-    const isSchedule = (file.history[0].indexOf('proposed-constitution/schedule') !== -1);
+    const isSchedule = (file.history[0].indexOf('new-constitution/schedule') !== -1);
     // this array keeps track of existing slugs to prevent duplicates per-page
     const links = []
     const processed = [];
@@ -101,7 +101,7 @@ module.exports = function bylawLinksPlugin({
       }
       const slug = generateSlug(child.id, links);
       let clauseAnnotations = [];
-      if (file.history[0].indexOf('proposed-constitution') !== -1) {
+      if (file.history[0].indexOf('new-constitution') !== -1) {
         let mustnotDelegate = powersStateCouncilMustNotDelegate.includes(slug);
         if (mustnotDelegate && !isSchedule) {
           clauseAnnotations.push('nodelegate');

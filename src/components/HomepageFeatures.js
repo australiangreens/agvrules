@@ -8,13 +8,13 @@ const DocIcon = ({color}) => (
 
 const FeatureList = [
   {
-    title: 'Constitution',
+    title: 'Old Constitution',
     color: "rebeccapurple",
     link: "constitution",
     icon: <DocIcon color="rebeccapurple" />,
     description: (
       <>
-        View the Constitution
+        View the Old Constitution
       </>
     ),
   },
@@ -30,13 +30,13 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Proposed Constitution',
+    title: 'New Constitution',
     color: "yellowgreen",
-    link: "proposed-constitution",
+    link: "new-constitution",
     icon: <DocIcon color="yellowgreen" />,
     description: (
       <>
-        View the Proposed Constitution
+        View the New Constitution
       </>
     ),
   },

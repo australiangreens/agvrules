@@ -209,13 +209,15 @@ const webpackPlugin = require('./webpackplugin');
               return shortLink === shorterLink ? [shortLink] : [shortLink, shorterLink];
             }
           }
-          if (existingPath.startsWith('/proposed-constitution/')) {
+          if (existingPath.startsWith('/new-constitution/')) {
+            let links = [];
+            links.push(existingPath.replace('new-constitution', 'proposed-constitution'));
             const scheduleMatches = existingPath.match(/(?:schedule-)([0-9]{2})/);
             if (scheduleMatches) {
               const scheduleNumber = scheduleMatches[1];
-              const shortLink = `/proposed-constitution/schedule-${scheduleNumber}`;
-              const shorterLink = `/proposed-constitution/schedule-${parseInt(scheduleNumber)}`;
-              return shortLink === shorterLink ? [shortLink] : [shortLink, shorterLink];
+              const shortLink = `/new-constitution/schedule-${scheduleNumber}`;
+              const shorterLink = `/new-constitution/schedule-${parseInt(scheduleNumber)}`;
+              return shortLink === shorterLink ? [...links,shortLink] : [...links, shortLink, shorterLink];
             }
           }
         },
@@ -259,8 +261,8 @@ const webpackPlugin = require('./webpackplugin');
         },
         items: [
           {to: '/bylaws', label: 'By-laws', position: 'left'},
-          {to: '/constitution', label: 'Constitution', position: 'left'},
-          {to: '/proposed-constitution', label: 'Proposed Constitution', position: 'left'},
+          {to: '/constitution', label: 'Old Constitution', position: 'left'},
+          {to: '/new-constitution', label: 'New Constitution', position: 'left'},
           {to: '/terms-of-reference', label: 'Terms of Reference', position: 'left'},
           {to: '/charter', label: 'Charter', position: 'left'}
         ],
@@ -278,7 +280,7 @@ const webpackPlugin = require('./webpackplugin');
             ],
           },
         ],
-        copyright: `Authorised by governance nerds everywhere, 45 William St, Melbourne, VIC 3000. Built with Docusaurus.`,
+        copyright: `Authorised by governance nerds everywhere, 1/45 William St, Melbourne, VIC 3000. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
