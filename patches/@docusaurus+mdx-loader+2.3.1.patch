@@ -1,0 +1,13 @@
+diff --git a/node_modules/@docusaurus/mdx-loader/lib/remark/toc/index.js b/node_modules/@docusaurus/mdx-loader/lib/remark/toc/index.js
+index 9bb7fc6..af02704 100644
+--- a/node_modules/@docusaurus/mdx-loader/lib/remark/toc/index.js
++++ b/node_modules/@docusaurus/mdx-loader/lib/remark/toc/index.js
+@@ -61,7 +61,7 @@ function plugin() {
+         (0, unist_util_visit_1.default)(root, 'heading', (child, index, parent) => {
+             const value = (0, mdast_util_to_string_1.default)(child);
+             // depth: 1 headings are titles and not included in the TOC
+-            if (parent !== root || !value || child.depth < 2) {
++            if (!value || child.depth < 2) {
+                 return;
+             }
+             headings.push({

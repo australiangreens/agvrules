@@ -126,7 +126,7 @@ module.exports = function bylawLinksPlugin({
         })
         child.children[0].children.push({
           type: 'html',
-          value: `<a class="hash-link" href="#${slug}" title="Direct link">#</a>`
+          value: `<a class="hash-link" href="#${slug}" title="Direct link"></a>`
         })
       } else {
         if (clauseAnnotations.length > 0) {
@@ -141,7 +141,7 @@ module.exports = function bylawLinksPlugin({
         })
         child.children.push({
           type: 'html',
-          value: `<a class="hash-link" href="#${slug}" title="Direct link">#</a>`
+          value: `<a class="hash-link" href="#${slug}" title="Direct link"></a>`
         })
       }
       processed.push(child);
@@ -191,7 +191,7 @@ function processListItem(
   })
   node.children.push({
     type: 'html',
-    value: `<a class="hash-link" href="#${slug}" title="Direct link">#</a>`
+    value: `<a class="hash-link" href="#${slug}" title="Direct link"></a>`
   })
   return node
 }

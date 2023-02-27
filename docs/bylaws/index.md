@@ -8,6 +8,4 @@ sidebar_label: Index
 
 ## Current as at 20 May 2021
 
-<ul>
-{props.versionMetadata.docsSidebars[metadata.sidebar].map(link => <li><a href={link.href}>{link.label}</a></li>)}
-</ul>
+<SidebarAsIndex />

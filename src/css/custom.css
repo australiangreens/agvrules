@@ -90,7 +90,7 @@ abbr:hover .abbr-info, .explain:hover .abbr-info {
 }
 
 .anchor-ref, .anchor-clause {
-  top: -5rem !important;
+  scroll-margin-top: calc(var(--ifm-navbar-height) + 0.5rem);
 }
 
 li:target {
