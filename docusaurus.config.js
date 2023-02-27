@@ -227,28 +227,6 @@ const webpackPlugin = require('./webpackplugin');
     [highlightPlugin, {}],
     [subnumberingPlugin, {}],
     [webpackPlugin, {}],
-    // [
-    //   require.resolve('docusaurus-plugin-papersaurus'),
-    //   {
-    //     keepDebugHtmls: false,
-    //     sidebarNames: ['pdfSidebar'],
-    //     rootDocIds: [
-    //       { version: 'default', rootDocId: 'bylaws'}
-    //     ],
-    //     addDownloadButton: true,
-    //     autoBuildPdfs: true,
-    //     downloadButtonText: 'Download as PDF',
-    //     getPdfCoverPage: (siteConfig, pluginConfig, pageTitle, version) => {
-    //       return `<h1>By-laws</h1>`;
-    //     },
-    //     getPdfPageHeader: (siteConfig, pluginConfig, pageTitle) => {
-    //       return `<h1>By-laws</h1>`;
-    //     },
-    //     getPdfPageFooter: (siteConfig, pluginConfig, pageTitle) => {
-    //       return `<h1>By-laws</h1>`;
-    //     },
-    //   }
-    // ],
   ],
 
   themeConfig:
