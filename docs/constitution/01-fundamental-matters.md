@@ -165,7 +165,7 @@ does not affect the election process for the State Council.
         </subclause-letters>
 
     4.  The eligibility requirements to vote in a preselection are in
-        Schedule 7.
+        Schedule 8.
 
     5.  Each member who holds public office must advocate and vote for
         the implementation of the policies of the Party, except that, if
@@ -315,8 +315,7 @@ does not affect the election process for the State Council.
 
         </subclause-letters>
 
-    2.  A special measure must not be inconsistent with Schedules 6
-        and 7.
+    2.  A special measure must not be inconsistent with Schedules 6, 7 and 8.
 
 
 

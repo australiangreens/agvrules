@@ -40,7 +40,7 @@ the State Council cannot be dealt with by the State Council itself.
 30. ## Becoming a member
 
     1.  The eligibility requirements for admission to membership are
-        in Schedule 7.
+        in Schedule 8.
 
     2.  State Council must make the procedure for:
 

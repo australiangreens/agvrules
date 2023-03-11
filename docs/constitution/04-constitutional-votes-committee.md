@@ -23,7 +23,7 @@ This Part sets out the Constitutional Votes Committee’s responsibilities and p
 provides for appointment and vacation of office of members of the Constitutional Votes
 Committee.
 
-[Schedule 7](./schedule-07-eligibility-requirements.md) sets out eligibility requirements for members of the Constitutional Votes
+[Schedule 8](./schedule-08-eligibility-requirements.md) sets out eligibility requirements for members of the Constitutional Votes
 Committee.
 
 <u>Summary and Explanation</u>
@@ -40,7 +40,7 @@ The Committee is not a general-purpose returning officer for other elections or
 preselections; it can only do the tasks given to it by the Constitution.
 
 The procedures for the Committee and for what happens if the Committee has a
-vacancy are set out in part 4. The eligibility requirements are set out in [Schedule 7](./schedule-07-eligibility-requirements.md).
+vacancy are set out in part 4. The eligibility requirements are set out in [Schedule 8](./schedule-08-eligibility-requirements.md).
 
 </details>
 
@@ -124,7 +124,9 @@ vacancy are set out in part 4. The eligibility requirements are set out in [Sche
         that office, the Committee must declare that they are removed
         from office.
 
-    6.  The Committee, and each member of the Committee in that
+    6.  If a member of the pool under Schedule 7, item 5 is no longer eligible to be appointed to the pool, the Committee must declare that their appointment to the pool is revoked.
+
+    7.  The Committee, and each member of the Committee in that
         capacity, must not:
 
         <subclause-letters>
@@ -136,7 +138,7 @@ vacancy are set out in part 4. The eligibility requirements are set out in [Sche
 
         </subclause-letters>
 
-    7.  Each member of the Committee must give priority to their
+    8.  Each member of the Committee must give priority to their
         responsibilities as a member of the Committee over any other
         party responsibilities.
 
@@ -196,7 +198,7 @@ vacancy are set out in part 4. The eligibility requirements are set out in [Sche
         </subclause-letters>
 
     5.  The eligibility requirements for appointment as a member of the
-        Committee are in Schedule 7.
+        Committee are in Schedule 8.
 
 29. ## Vacation of office
 

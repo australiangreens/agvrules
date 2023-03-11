@@ -138,7 +138,14 @@ resolutions.
 
         </subclause-letters>
 
-40. ## Miscellany
+40. ## First Nations party body
+
+    1.  The First Nations party body is constituted by all First Nations members only.
+
+    2.  The terms of reference of the First Nations party body may only be amended by State Council
+with the consent of the First Nations party body.
+
+41. ## Miscellany
 
     1.  The name of the incorporated association is ‘The Australian
         Greens Victoria Incorporated.’

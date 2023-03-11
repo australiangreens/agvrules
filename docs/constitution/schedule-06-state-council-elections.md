@@ -30,13 +30,13 @@ more casual vacancies. Otherwise (and thus usually) a vacancy is added to the
 vacancies to be filled at the next scheduled (i.e. annual) election, with a procedure to
 determine which candidates fill the full two-year terms and which fill a shorter term.
 
-[Schedule 7](./schedule-07-eligibility-requirements.md) sets out the requirements to be elected to State Council, the most
+[Schedule 8](./schedule-08-eligibility-requirements.md) sets out the requirements to be elected to State Council, the most
 significant of which is to have been a member of the party for at least two years, to be a
 current resident of Victoria, and not to have been in the past year a member who holds
 public office. There are limitations also on staff of the Party or of a member who holds
-public office being elected ([Schedule 7, Item 4](./schedule-07-eligibility-requirements.md#state-councillor)) and some other limitations. State
+public office being elected ([Schedule 7, Item 4](./schedule-08-eligibility-requirements.md#state-councillor)) and some other limitations. State
 Councillors are limited to two terms before effectively needing to take a one year break
-([Schedule 7, item 4(3)(a)](./schedule-07-eligibility-requirements.md#4.3.a)).
+([Schedule 7, item 4(3)(a)](./schedule-08-eligibility-requirements.md#4.3.a)).
 
 For the system for electing the State Council, see [Part 3](./03-state-council.md) above.
 
@@ -51,10 +51,7 @@ For the system for electing the State Council, see [Part 3](./03-state-council.m
         1.  ***Committee*** means the Constitutional Votes
             Committee;
 
-        2.  ***election***, including in the term ‘by-election’,
-            means State Council election; and
-
-        3.  ***standard term*** means a term:
+        2.  ***standard term*** means a term of office:
 
             1.  beginning on 1 July of the year of the scheduled
                 election, or on the day the election is declared,
@@ -62,6 +59,8 @@ For the system for electing the State Council, see [Part 3](./03-state-council.m
 
             2.  ending on 30 June two years after the year of the
                 scheduled election.
+
+        3.  ***State Councillor*** means a State Councillor elected under this Schedule.
 
         </subclause-letters>
 
@@ -91,11 +90,9 @@ For the system for electing the State Council, see [Part 3](./03-state-council.m
 
         <subclause-letters>
 
-        1.  in odd years—seven for a standard term;
+        1.  seven for a standard term; and
 
-        2.  in even years—eight for a standard term; and
-
-        3.  any casual vacancies for a term that continues beyond
+        2.  any casual vacancies for a term that continues beyond
             30 June of that year that:
 
             1.  exist immediately before the opening of the
@@ -129,7 +126,9 @@ For the system for electing the State Council, see [Part 3](./03-state-council.m
 
 4. ## Conduct of elections
 
-    1.  Each election must be conducted in accordance with the
+    1.  The eligibility requirements to vote in an election are in Schedule 8.
+
+    2.  Each election must be conducted in accordance with the
         following principles:
 
         <subclause-letters>
@@ -148,7 +147,7 @@ For the system for electing the State Council, see [Part 3](./03-state-council.m
 
         </subclause-letters>
 
-    2.  The Committee must:
+    3.  The Committee must:
 
         <subclause-letters>
 
@@ -209,7 +208,7 @@ For the system for electing the State Council, see [Part 3](./03-state-council.m
 
         </subclause-letters>
 
-    3.  The resources of the Party and those at the disposal of a
+    4.  The resources of the Party and those at the disposal of a
         member who holds public office must not be used to support
         one candidate against another.
 
@@ -218,8 +217,8 @@ For the system for electing the State Council, see [Part 3](./03-state-council.m
     1.  Before each election, the Committee must make, and make
         available to members, rules for that election (***election
         rules***) that provide for the practical implementation of
-        the principles in item 4(1), the requirements in item ​4(2)
-        and the rule in item 4(3).
+        the principles in item 4(2), the requirements in item ​4(3)
+        and the rule in item 4(4).
 
     2.  Before doing that, the Committee must:
 

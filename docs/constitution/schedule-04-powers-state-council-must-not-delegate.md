@@ -76,14 +76,18 @@ list of powers it can only exercise itself.
 <td>Take disciplinary action against certain types of member</td>
 </tr>
 <tr className="even">
+<td>Clause 40(2)</td>
+<td>Amend the First Nations party body terms of reference</td>
+</tr>
+<tr className="odd">
 <td>Clause 40(8)</td>
 <td>Appoint the Secretary of the Association</td>
 </tr>
-<tr className="odd">
+<tr className="even">
 <td>Schedule 2, item 3</td>
 <td>Deal with a joint branch proposal</td>
 </tr>
-<tr className="even">
+<tr className="odd">
 <td>Schedule 3, item 3(11)</td>
 <td>Remove a proposal from a members’ plebiscite</td>
 </tr>

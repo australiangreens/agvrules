@@ -35,7 +35,7 @@ on 1 February 2022, apart from clause 21(2)
 
 * [Schedule 6](./schedule-06-state-council-elections.md) sets out State council election procedures.
 
-* [Schedule 7](./schedule-07-eligibility-requirements.md) sets out eligibility requirements for State Councillors.
+* [Schedule 8](./schedule-08-eligibility-requirements.md) sets out eligibility requirements for State Councillors.
 
 * (Schedules [2](./schedule-02-joint-branch-proposal-to-state-council.md) & [3](./schedule-03-members-direct-decision-making.md) describe joint branch proposals and members’ direct decision
   making procedures, and are dealt with below.)
@@ -181,15 +181,16 @@ Clause 22 sets out how a State Councillor ceases to hold office.
 
     The State Council meeting procedure is in Schedule 5.
 
-21. ## Election
+21. ## Election and appointment
 
-    1.  State Councillors are elected under the procedure in Schedule 6.
+    1.  Fourteen State Councillors are elected under Schedule 6.
 
-    2.  The eligibility requirements to vote in a State Council election
-        are in Schedule 7.
+    2. One State Councillor is appointed under Schedule 7.
 
-    3.  The eligibility requirements for election as a State Councillor
-        are in Schedule 7.
+    3.  The eligibility requirements for election or appointment as a State Councillor
+        are in Schedule 8.
+
+    4.  A member must not hold more than one office of State Councillor at the same time.
 
 22. ## Vacation of office
 
@@ -208,9 +209,13 @@ Clause 22 sets out how a State Councillor ceases to hold office.
 
         3.  they are removed from office under [subclause (4)](#22.4);
 
-        4.  they are removed from office under [clause 25(5)](./04-constitutional-votes-committee.md#25.5); or
+        4.  they are removed from office under [clause 25(5)](./04-constitutional-votes-committee.md#25.5);
 
-        5.  they are removed from office by special resolution.
+        5.  their appointment is revoked under Schedule 7, items 4(b) or 5(2)(b) or (3);
+
+        6.  their appointment is overridden by force of Schedule 7, item 6; or
+
+        7.  they are removed from office by special resolution.
 
         </subclause-letters>
 

@@ -1,5 +1,5 @@
 ---
-title: "Schedule 7: Eligibility requirements"
+title: "Schedule 8: Eligibility requirements"
 original:
     file: "Proposed special resolution.pdf"
     pages: [24,25]
@@ -45,12 +45,11 @@ See boxes under Parts 3, 4 and 5.
     1.  they have been a member of the Party or another Greens party for the
     last year; and
 
-    2.  in the case of a scheduled election in an odd year or a
-    by-election—they have attended an election deliberation session.
+    
 
+    2.  in the case of a member who is not a candidate, and a scheduled election in an odd year or a by-election—they have attended an election deliberation session.
 
-
-4. ## State Councillor
+4. ## State Councillor elected under Schedule 6
 
     1.  In this item, ***specified person or body*** means:
 
@@ -70,7 +69,7 @@ See boxes under Parts 3, 4 and 5.
 
         <subclause-letters>
 
-        1.  have been a member for the past two years; and
+        1.  have been a member for the past two years, ignoring any gap of less than 30 days; and
 
         2.  live in Victoria.
 
@@ -118,20 +117,48 @@ See boxes under Parts 3, 4 and 5.
 
         </subclause-letters>
 
-5. ## Constitutional Votes Committee
+5. ## State Councillor appointed under Schedule 7
+
+    1.  A member is eligible to be appointed as a State Councillor if they:
+
+        <subclause-letters>
+
+        1.  are a First Nations member;
+
+        2.  are eligible for election as a State Councillor, excluding the requirements in items 4(3) (a), (b) and (g)(ii), (iii) and (iv).
+
+        </subclause-letters>
+
+    2.  A member is not eligible to be appointed as a State Councillor if they:
+
+        <subclause-letters>
+
+        1.  are insolvent under administration, or the equivalent status under the law of another state or territory; or
+
+        2.   are disqualified under Australian law from managing a corporation or co-operative.
+
+        </subclause-letters>
+
+
+
+
+6. ## Constitutional Votes Committee
 
     1.  A member is eligible to be appointed to the Constitutional Votes
         Committee if they:
 
         <subclause-letters>
 
-        1.  are eligible for election to State Council, excluding the
-            requirement in item 4(3)(c);
+        1.  are eligible for election as a State Councillor, excluding the requirements in items 4(3)(a), (b) and (c);
 
-        2.  in the last year, have not been a State Councillor; and
+        2.  in the last year, have not been a State Councillor;
 
         3.  are not a candidate, or a nominee to be a candidate, for
             election to State Council.
+
+        4. are not currently seeking to be certified as eligible to be appointed as a State Councillor or to the pool under Schedule 7; and
+
+        5. are not a member of the pool under Schedule 7.
 
         </subclause-letters>
 

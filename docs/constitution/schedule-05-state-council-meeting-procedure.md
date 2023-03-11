@@ -108,15 +108,17 @@ to take approximately one month of leave from their State Council duties each ye
 
 5. ## Proxies
 
-    1.  A State Councillor may appoint another State Councillor as their
+    1.  In this item, ***State Councillor*** means a State Councillor elected under Schedule 6.
+
+    2.  A State Councillor may appoint another State Councillor as their
         proxy to attend, speak and vote on their behalf at State Council
         meetings.
 
-    2.  The appointment of a proxy must be made, and may be terminated
+    3.  The appointment of a proxy must be made, and may be terminated
         before or during its effective period, by written notice given
         to State Council.
 
-    3.  Each State Councillor, in each financial year, may appoint:
+    4.  Each State Councillor, in each financial year, may appoint:
 
         <subclause-letters>
 
@@ -128,13 +130,13 @@ to take approximately one month of leave from their State Council duties each ye
 
         </subclause-letters>
 
-    4.  A State Councillor may only be the proxy of one other State
+    5.  A State Councillor may only be the proxy of one other State
         Councillor at a time.
 
-    5.  A purported appointment of a proxy in breach of sub-item (3)
+    6.  A purported appointment of a proxy in breach of sub-item (3)
         or (4) is invalid.
 
-    6.  A proxy must not be directed how to vote.
+    7.  A proxy must not be directed how to vote.
 
 6. ## Attendance
 

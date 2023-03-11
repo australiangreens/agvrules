@@ -49,7 +49,7 @@ item 1(2);
 ***disciplinary procedure*** has the meaning given by clause 34(2);
 
 ***election deliberation session*** has the meaning given by Schedule 6,
-item 6(1);
+item (1);
 
 ***Greens party*** means one of the member bodies of the Australian
 Greens;
@@ -79,7 +79,7 @@ item 3(10)(a);
 Greens;
 
 ***Party*** means the incorporated association referred to in
-clause 40(1);
+clause 41(1);
 
 ***party body*** means State Council, the Constitutional Votes
 Committee, a branch, and any body established by exercise of the power
