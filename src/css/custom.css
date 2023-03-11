@@ -109,3 +109,8 @@ li:target {
   width: 100% !important;
   height: auto !important;
 }
+
+/* Hide Drafting Panel commentary */
+details {
+  display: none;
+}
