@@ -201,24 +201,33 @@ const webpackPlugin = require('./webpackplugin');
       require.resolve('@docusaurus/plugin-client-redirects'),
       {
         createRedirects: function (existingPath) {
-          if (existingPath.startsWith('/bylaws/')) {
+          if (existingPath.startsWith('/old-bylaws/')) {
+            let links = [];
+            links.push(existingPath.replace('old-bylaws', 'bylaws'));
             const matches = existingPath.match(/[0-9]{2}/);
             if (matches) {
               const bylawNumber = matches[0];
               const shortLink = `/bylaws/${bylawNumber}`;
+              // Don't break old URLs
+              const shortLinkOld = shortLink.replace('old-bylaws', 'bylaws');
               const shorterLink = `/bylaws/${parseInt(bylawNumber)}`;
-              return shortLink === shorterLink ? [shortLink] : [shortLink, shorterLink];
+              const shorterLinkOld = shorterLink.replace('old-bylaws', 'bylaws')
+              return shortLink === shorterLink ? [...links, shortLink, shortLinkOld] : [...links, shortLink, shortLinkOld, shorterLink, shorterLinkOld];
             }
+            return links;
           }
-          if (existingPath.startsWith('/new-constitution/')) {
+          if (existingPath.startsWith('/constitution/')) {
             let links = [];
-            links.push(existingPath.replace('new-constitution', 'proposed-constitution'));
+            links.push(existingPath.replace('constitution', 'new-constitution'));
             const scheduleMatches = existingPath.match(/(?:schedule-)([0-9]{2})/);
             if (scheduleMatches) {
               const scheduleNumber = scheduleMatches[1];
-              const shortLink = `/new-constitution/schedule-${scheduleNumber}`;
-              const shorterLink = `/new-constitution/schedule-${parseInt(scheduleNumber)}`;
-              return shortLink === shorterLink ? [...links,shortLink] : [...links, shortLink, shorterLink];
+              const shortLink = `/constitution/schedule-${scheduleNumber}`;
+              // Don't break old URLs
+              const shortLinkNew = shortLink.replace('constitution', 'new-constitution');
+              const shorterLink = `/constitution/schedule-${parseInt(scheduleNumber)}`;
+              const shorterLinkNew = shorterLink.replace('constitution', 'new-constitution');
+              return shortLink === shorterLink ? [...links, shortLink, shortLinkNew] : [...links, shortLink, shortLinkNew, shorterLink, shorterLinkNew];
             }
             return links;
           }
@@ -240,9 +249,7 @@ const webpackPlugin = require('./webpackplugin');
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/bylaws', label: 'By-laws', position: 'left'},
-          {to: '/constitution', label: 'Old Constitution', position: 'left'},
-          {to: '/new-constitution', label: 'New Constitution', position: 'left'},
+          {to: '/constitution', label: 'Constitution', position: 'left'},
           {to: '/terms-of-reference', label: 'Terms of Reference', position: 'left'},
           {to: '/charter', label: 'Charter', position: 'left'}
         ],
