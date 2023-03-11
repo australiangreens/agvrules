@@ -1,8 +1,8 @@
 ---
 title: "Schedule 8: Definitions"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [26]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [28]
 ---
 
 :::effectivefrom Timing

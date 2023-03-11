@@ -1,8 +1,8 @@
 ---
 title: "Part 7: Other matters"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [11,12]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [12,13]
 ---
 
 :::effectivefrom Timing

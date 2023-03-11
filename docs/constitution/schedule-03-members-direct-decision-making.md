@@ -1,8 +1,8 @@
 ---
 title: "Schedule 3: Members’ direct decision-making"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [15,16,17]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [16,17,18]
 ---
 
 :::effectivefrom Timing

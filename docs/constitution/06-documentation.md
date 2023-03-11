@@ -1,8 +1,8 @@
 ---
 title: "Part 6: Documentation"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [9,10]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [10,11]
 ---
 
 :::effectivefrom Timing

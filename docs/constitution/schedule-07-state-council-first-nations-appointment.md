@@ -1,8 +1,8 @@
 ---
 title: "Schedule 7: State Council First Nations Appointment"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [24,25]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [25]
 ---
 
 1. ## Definition

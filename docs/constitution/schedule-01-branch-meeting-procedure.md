@@ -1,8 +1,8 @@
 ---
 title: "Schedule 1: Branch meeting procedure"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [13]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [14]
 ---
 
 :::effectivefrom Timing

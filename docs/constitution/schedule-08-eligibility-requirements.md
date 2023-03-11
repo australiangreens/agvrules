@@ -1,8 +1,8 @@
 ---
 title: "Schedule 8: Eligibility requirements"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [24,25]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [26,27]
 ---
 
 :::effectivefrom Timing

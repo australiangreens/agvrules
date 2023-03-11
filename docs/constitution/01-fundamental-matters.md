@@ -1,8 +1,8 @@
 ---
 title: "Part 1: Fundamental matters"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [2,3,4]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [3,4,5]
 ---
 
 :::effectivefrom Timing

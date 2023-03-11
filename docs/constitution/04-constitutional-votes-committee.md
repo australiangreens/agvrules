@@ -1,8 +1,8 @@
 ---
 title: "Part 4: Constitutional Votes Committee"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [7,8]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [8,9]
 ---
 
 :::effectivefrom Timing

@@ -1,8 +1,8 @@
 ---
 title: "Schedule 6: State Council elections"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [21,22,23]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [22,23,24]
 ---
 
 :::effectivefrom Timing

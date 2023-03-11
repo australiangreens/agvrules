@@ -1,8 +1,8 @@
 ---
 title: "Schedule 5: State Council meeting procedure"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [19,20]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [20,21]
 ---
 
 :::effectivefrom Timing

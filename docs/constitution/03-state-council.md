@@ -1,8 +1,8 @@
 ---
 title: "Part 3: State Council"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [6,7]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [7,8]
 ---
 
 :::effectivefrom Timing

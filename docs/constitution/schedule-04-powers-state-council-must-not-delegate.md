@@ -1,8 +1,8 @@
 ---
 title: "Schedule 4: Powers State Council must not delegate"
 original:
-    file: "Proposed special resolution.pdf"
-    pages: [18]
+    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    pages: [19]
 ---
 
 :::effectivefrom Timing
