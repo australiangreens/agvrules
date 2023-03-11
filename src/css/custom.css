@@ -114,3 +114,8 @@ li:target {
 details {
   display: none;
 }
+
+/* Hide "effective from" admonitions */
+.admonition-effectivefrom {
+  display: none;
+}
