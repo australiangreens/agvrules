@@ -1,7 +1,7 @@
 ---
 title: "Schedule 3: Members’ direct decision-making"
 original:
-    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    file: "AGV Constitution 2024-03-06.pdf"
     pages: [16,17,18]
 ---
 

@@ -8,11 +8,10 @@ sidebar_label: Index
 Constitution of ***<span className="smallcaps">The Australian Greens Victoria Inc.</span>***  
 and The Charter of The Greens
 
-Version as at  2 January 2023.
+Version as at 6 March 2024.
 
 ABN 11 616 265 905  
-*Associations Incorporation Reform Act 2012* registration number
-A0027546F
+*Associations Incorporation Reform Act 2012* registration number A0027546F
 
 <details>
 

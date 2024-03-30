@@ -1,7 +1,7 @@
 ---
 title: "Schedule 2: Joint branch proposal to State Council"
 original:
-    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    file: "AGV Constitution 2024-03-06.pdf"
     pages: [15]
 ---
 

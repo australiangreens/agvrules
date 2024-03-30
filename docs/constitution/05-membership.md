@@ -1,8 +1,8 @@
 ---
 title: "Part 5: Membership"
 original:
-    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
-    pages: [10]
+    file: "AGV Constitution 2024-03-06.pdf"
+    pages: [10,11]
 ---
 
 :::effectivefrom Timing

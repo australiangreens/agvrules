@@ -1,7 +1,7 @@
 ---
 title: "Schedule 6: State Council elections"
 original:
-    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    file: "AGV Constitution 2024-03-06.pdf"
     pages: [22,23,24]
 ---
 
@@ -292,8 +292,7 @@ For the system for electing the State Council, see [Part 3](./03-state-council.m
 
         </subclause-letters>
 
-    3.  Each candidate may only attend one deliberation session but
-        must not participate in the discussion.
+    3.  A candidate must not attend an election deliberation session.
 
     4.  The failure of a branch to hold an election deliberation
         session does not, alone, invalidate an election.
