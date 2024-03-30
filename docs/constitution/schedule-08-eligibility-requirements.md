@@ -5,22 +5,9 @@ original:
     pages: [26,27]
 ---
 
-:::effectivefrom Timing
-The provisions of this schedule come into force
-immediately except for items 1, 2, and 3
-:::
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-See boxes under Parts 3, 4 and 5.
-
-</details>
-
 1. ## Membership
 
-    <ClauseAnnotation effectivefrom="on 1 February 2022" /> A person is eligible to be admitted as a member if they:
+    A person is eligible to be admitted as a member if they:
 
     1.  are a person, not a corporation;
 
@@ -34,7 +21,7 @@ See boxes under Parts 3, 4 and 5.
 
 2. ## Voting in a preselection
 
-    <ClauseAnnotation effectivefrom="on 1 February 2022" /> A member is eligible to vote in a preselection if they have been a member of the Party or another Greens party for the last three months.
+    A member is eligible to vote in a preselection if they have been a member of the Party or another Greens party for the last three months.
 
 3. ## Voting in a State Council election
 

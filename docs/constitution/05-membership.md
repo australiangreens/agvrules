@@ -5,37 +5,6 @@ original:
     pages: [10,11]
 ---
 
-:::effectivefrom Timing
-The provisions of this part of the Constitution come into force
-on the transition date (1 January 2023)
-:::
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-<u>At a glance</u>
-
-* Provides for starting and ending membership.
-
-* Allows for membership fees.
-
-* Provides for a grievance procedure.
-
-* Provides for a disciplinary procedure.
-
-<u>Summary and Explanation</u>
-
-Part 5 provides for a membership application process and membership fees (clauses
-30 and 32). It also provides, as required by the relevant legislation, that State Council
-must establish a procedure to deal with grievances ([clause 33](#grievance-procedure)) and for disciplinary
-action ([clause 34](#disciplinary-action)).
-
-It is important to note that the relevant legislation provides that any grievance against
-the State Council cannot be dealt with by the State Council itself.
-
-</details>
-
  
 30. ## Becoming a member
 

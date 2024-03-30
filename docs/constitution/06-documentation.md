@@ -4,43 +4,6 @@ original:
     file: "AGV Constitution 2024-03-06.pdf"
     pages: [11,12]
 ---
-
-:::effectivefrom Timing
-The provisions of this part of the Constitution come into force
-on the transition date (1 January 2023) apart from    
-clauses 35 and 36 as they apply to the New State Council
-:::
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-<u>At a glance</u>
-
-
-* Requires certain party bodies to keep minutes in a certain way.
-
-* Requires certain party bodies to make their minutes available to members at all
-  times.
-
-* Provides rules for the redaction of those minutes.
-
-* Provides for a party handbook of current internal structural information about
-  the party that is available to members at all times.
-
-* Provides for a party archive of important party information and documentation.
-
-<u>Summary and Explanation</u>
-
-This part provides a new right of members to have access to minutes in a timely
-manner (clause 35), and requires that minutes of State Council and senior party bodies
-be in a form which enables a member to understand what was decided.
-
-State Council minutes must also include the branch questions and proposals put to State Council
-along with State Council’s answers and responses to them (clause 35(4)).
-
-</details>
-
  
 35. ## Minutes of meetings
 

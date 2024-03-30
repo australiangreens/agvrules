@@ -5,96 +5,8 @@ original:
     pages: [5,6,7]
 ---
 
-:::effectivefrom Timing
-The provisions of this part of the Constitution come into force
-on the transition date (1 January 2023)
-:::
-
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-<u>At a glance</u>
-
-* Provides for the establishment and geographic definition of branches.
-
-* Provides for members to be branch members.
-
-* Sets out branch responsibilities and powers.
-
-* Empowers branches to delegate their powers.
-
-* Provides ways for branches to hold State Council to account, including the
-  power to make joint branch proposals leading to a possible members’ meeting
-  and members’ plebiscite.
-
-* Provides for the suspension of branches.
-
-* [Schedule 1](./schedule-01-branch-meeting-procedure.md) provides Branch meeting procedures.
-
-<u>Summary and Explanation</u>
-
-This part largely reflects the current arrangements, with the exception that some of the
-administrative and office-bearer requirements in the current Constitution have been
-removed. For example, a small branch might choose to have only a
-Convenor/Secretary, or a ‘Coordinator’, rather than having the full suite of office bearer
-positions.
-
-State Council retains the power to establish and disestablish branches but would now
-require the agreement of the relevant branches to redefine a branch area. The default
-position is that a branch must be defined by local government boundaries (clause 7(4)
-(c)).
-
-Clause 8 defines branch membership, which is essentially unchanged but is clarified.
-
-Clause 9 sets out the powers of branches, including powers to make local policies and
-engage with the community. Branch decisions are subject to contrary State Council
-decisions, and State Council may, but only temporarily, suspend the power of a branch
-to make public statements.
-
-Clause 12 adds a new power for branches to formally submit a question to State
-Council and receive an answer within 60 days.
-
-Clause 13 creates new powers for branches to propose a reconsideration proposal – to
-propose to State Council that it rescind a State Council or senior party body decision
-they don’t like. A branch can also forward a substantive proposal. If they do this, State
-Council must consider what they have put forward, and if State Council does not agree,
-it must explain why in writing. State Council can adopt a reconsideration proposal by a
-simple majority.
-
-An example of a reconsideration-proposal in practice is:
-
-<subclause-letters>
-
-1. State Council decides by consensus in June to establish a Committee on Rural Policy;
-
-2. North-East Victoria Branch moves a reconsideration proposal in July because it thinks its voice was not
-   heard, and this new Committee will undermine the role of the Country Greens Network;
-
-3. State Council, at its August meeting is divided, but votes 8 to 7 in favour of
-  rescinding its earlier decision so it can consider the matter further;
-  
-4. any further decision is made in the ordinary way.
-
-</subclause-letters>
-
-This makes it easier for branches to have the State Council reconsider a matter when it
-may not have heard directly from a branch at an earlier meeting.
-
-Clause 16 allows the State Council to suspend a branch, but only in exceptional
-circumstances and only for 60 days.
-
-</details>
-
 7. ## Constitution
 
-    <details><summary>Drafting Panel commentary</summary>
-    State Council retains the power to establish and disestablish branches but would now
-    require the agreement of the relevant branches to redefine a branch area. The default
-    position is that a branch must be defined by local government boundaries (clause 7(4)
-    (c)).
-    </details>
 
     1.  State Council may create or dissolve a branch.
 
@@ -118,10 +30,6 @@ circumstances and only for 60 days.
 
 8. ## Branch membership
 
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 8 defines branch membership, which is essentially unchanged but is clarified.
-    </details>
-
     1.  Each member is a member of one branch.
 
     2.  State Council must make the procedure by which a member:
@@ -140,13 +48,6 @@ circumstances and only for 60 days.
         justify otherwise.
 
 9. ## Responsibilities and powers
-
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 9 sets out the powers of branches, including powers to make local policies and
-    engage with the community. Branch decisions are subject to contrary State Council
-    decisions, and State Council may, but only temporarily, suspend the power of a branch
-    to make public statements.
-    </details>
 
     1.  Each branch is responsible for:
 
@@ -206,11 +107,6 @@ circumstances and only for 60 days.
 
 12. ## Branch question to State Council
 
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 12 adds a new power for branches to formally submit a question to State
-    Council and receive an answer within 60 days.
-    </details>
-
     1.  A branch may submit a question about a party matter to State
         Council.
 
@@ -218,34 +114,6 @@ circumstances and only for 60 days.
         answer it in writing.
 
 13. ## Branch proposal to State Council
-
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 13 creates new powers for branches to propose a reconsideration proposal – to
-    propose to State Council that it rescind a State Council or senior party body decision
-    they don’t like. A branch can also forward a substantive proposal. If they do this, State
-    Council must consider what they have put forward, and if State Council does not agree,
-    it must explain why in writing. State Council can adopt a reconsideration proposal by a
-    simple majority.
-
-    An example of a reconsideration-proposal in practice is:
-
-    <subclause-letters>
-
-    1. State Council decides by consensus in June to establish a Committee on Rural Policy;
-
-    2. North-East Victoria Branch moves a reconsideration proposal in July because it thinks its voice was not
-    heard, and this new Committee will undermine the role of the Country Greens Network;
-
-    3. State Council, at its August meeting is divided, but votes 8 to 7 in favour of
-    rescinding its earlier decision so it can consider the matter further;
-    
-    4. any further decision is made in the ordinary way.
-
-    </subclause-letters>
-
-    This makes it easier for branches to have the State Council reconsider a matter when it
-    may not have heard directly from a branch at an earlier meeting.
-    </details>
 
     1.  A branch may submit to State Council:
 
@@ -274,10 +142,6 @@ circumstances and only for 60 days.
         </subclause-letters>
 
 14. ## Joint branch proposal to State Council
-
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 2 on policy requires that party policy and the party strategy generally only be made by members through a participatory process, by consensus (or a 75% vote) of members participating. State Council can make a policy or the party strategy in urgent circumstances. The clause also reflects our existing hierarchy of national, state and local policies.
-    </details>
 
     A joint branch proposal to State Council may be submitted in accordance
     with Schedule 2.
@@ -308,11 +172,6 @@ circumstances and only for 60 days.
         </subclause-letters>
 
 16. ## Suspension
-
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 16 allows the State Council to suspend a branch, but only in exceptional
-    circumstances and only for 60 days.
-    </details>
 
     1.  In exceptional circumstances, State Council may suspend a branch
     for up to 60 days.

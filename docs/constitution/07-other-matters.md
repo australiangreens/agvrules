@@ -5,38 +5,6 @@ original:
     pages: [12,13]
 ---
 
-:::effectivefrom Timing
-The provisions of this part of the Constitution come into force
-on the transition date (1 January 2023) apart from clause 40(1)
-:::
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-<u>At a glance</u>
-
-* Provides for general meetings under the Act, including the annual general
-  meeting.
-
-* Sets out a list of other things that are helpful or required by the Act.
-
-<u>Summary and Explanation</u>
-
-The ‘general meeting’ is a meeting of all members as required by law. In particular, it is
-the body that considers special resolutions, including those to change the Constitution
-of the Party.
-
-The quorum of the general meeting to start and continue is reduced from
-100 to 50, but for a special resolution to pass (e.g. to change the Constitution) it retains
-the rule that 100 members must vote along with the legislatively required 75% in
-favour.
-
-The only resolutions general meetings are empowered to pass are special
-resolutions.
-
-</details>
-
  
 39. ## General meetings
 
@@ -142,8 +110,7 @@ resolutions.
 
     1.  The First Nations party body is constituted by all First Nations members only.
 
-    2.  The terms of reference of the First Nations party body may only be amended by State Council
-with the consent of the First Nations party body.
+    2.  The terms of reference of the First Nations party body may only be amended by State Council with the consent of the First Nations party body.
 
 41. ## Miscellany
 
