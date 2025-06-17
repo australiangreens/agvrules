@@ -14,7 +14,7 @@ The purposes of the Party are:
     (b)	to make policies that are consistent with the Charter;
     (c)	to win support for its policies;
     (d)	to see its policies implemented;
-    (e)	to have its members elected to public o+ce;
+    (e)	to have its members elected to public office;
     (f)	to be a member body of the Australian Greens; and
     (g)	to cooperate with like-minded people and organisations.
 
@@ -22,7 +22,7 @@ The purposes of the Party are:
 
 2. ## Policies and party strategy
 
-    (1)	Each state policy and the party strategy may only be made, amended or repealed by the membership, through participatory and deliberative processes, with the advice of experts and of members who hold public o+ce.
+    (1)	Each state policy and the party strategy may only be made, amended or repealed by the membership, through participatory and deliberative processes, with the advice of experts and of members who hold public office.
     
     (2)	A proposal to make, amend or repeal a state policy or the party strategy that is put to a vote is passed if at least 75% of the members in attendance who vote on the proposal vote in favour and State Council rati6es it.
 
@@ -56,7 +56,7 @@ The purposes of the Party are:
 
     (4)	The eligibility requirements to vote in a preselection are in Schedule 8.
 
-    (5)	Each member who holds public o+ce must advocate and vote for the implementation of the policies of the Party, except that, if they have a conscientious objection to a policy, they may vote in accordance with their conscience.
+    (5)	Each member who holds public office must advocate and vote for the implementation of the policies of the Party, except that, if they have a conscientious objection to a policy, they may vote in accordance with their conscience.
 
     (6)	Where there are two or more members who hold public office in a particular council or parliament, they must make every effort to reach consensus on each substantive matter before them.
     
@@ -75,7 +75,7 @@ The purposes of the Party are:
         (a)	participants should come with a commitment to reaching consensus and in a spirit of collaboration and collective responsibility;
         (b)	meaningful participation should be fostered by all participants;
         (c)	the expression of diverse views should be encouraged;
-        (d)	enough time should be devoted to allow su+cient deliberation; and
+        (d)	enough time should be devoted to allow sufficient deliberation; and
         (e)	a properly made decision should be accepted by all.</subclause-letters>
 
     (3)	Each decision to delegate power must be made by balancing the following principles:
@@ -83,7 +83,7 @@ The purposes of the Party are:
         (a)	the meaningful participation of members is valuable for its own sake;
         (b)	a decision with local eGects should be made at the local level;
         (c)	decisions should be high-quality, strategic and eGective; and
-        (d)	decisions should be made e+ciently.</subclause-letters>
+        (d)	decisions should be made effciently.</subclause-letters>
 
         (4)	A substantive proposal may only be put to a vote if every eGort has been made to reach consensus and the decision should not be deferred.
 
@@ -100,17 +100,19 @@ The purposes of the Party are:
     (3)	Each member is entitled, to a reasonable extent, to communicate with the whole membership about party matters through party communications and publications.
 
     (4)	At least twice each year, State Council must convene a members’ forum, to which each member is invited, at which:
+    <subclause-letters>
         (a)	it reports on its work and the aGairs of the Party;
         (b)	it seeks members’ views about important matters, including party governance, the party budget, election campaign strategy, and the Australian Greens;
         (c)	it answers members’ questions; and
-        (d)	issues raised by members are discussed.
+        (d)	issues raised by members are discussed.</subclause-letters>
 
 6. ## Affirmative action
 
     (1)	The Party must:
-        (a)	implement a+rmative action to achieve equity for underrepresented groups; and
-        (b)	take special measures to increase representation for underrepresented groups across the overall membership of the following groups: State Councillors, members of senior party bodies, candidates for public o+ce and members who hold public o+ce.
+    <subclause-letters>
+        (a)	implement affirmative action to achieve equity for underrepresented groups; and
+        (b)	take special measures to increase representation for underrepresented groups across the overall membership of the following groups: State Councillors, members of senior party bodies, candidates for public office and members who hold public office.</subclause-letters>
 
-    (2)	A special measure must not be inconsistent with Schedules;6, 7 and 8.
+    (2)	A special measure must not be inconsistent with Schedules 6, 7 and 8.
 
 
