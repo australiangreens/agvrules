@@ -7,64 +7,30 @@ original:
 
 17. ## Constitution
 
-    State Council is made up of 18 State Councillors.
+    State Council is made up of 15 State Councillors.
 
 18. ## Responsibilities and powers
 
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 18 sets out the general powers of State Council. State Council must ensure that
-    the party has a party strategy and must establish party bodies and offices to assist it to
-    implement that strategy (clause 18(3)).
-    </details>
-
-    1.  State Council is responsible for the management of the Party.
-
-    2.  State Council may exercise all of the powers of the Party except
-        those of the Constitutional Votes Committee.
-
-    3.  In carrying out its responsibilities, State Council must:
-
+    (1)	State Council is responsible for the management of the Party.
+    
+    (2)	State Council may exercise all of the powers of the Party except those of the Constitutional Votes Committee.
+    
+    (3)	In carrying out its responsibilities, State Council must:
         <subclause-letters>
+        (a)	ensure that the Party has a party strategy;
+        (b)	establish party o+ces and party bodies to assist it to implement the strategy;
+        (c)	oversee the implementation of the strategy; and
+        (d)	report regularly to each member about its work and the aGairs of the Party.</subclause-letters>
 
-        1.  ensure that the Party has a party strategy;
+    (4)	If a member of the Constitutional Votes Committee is no longer eligible to be appointed to that office, State Council must declare that they are removed from office.
 
-        2.  establish party offices and party bodies to assist it to
-            implement the strategy;
-
-        3.  oversee the implementation of the strategy; and
-
-        4.  report regularly to each member about its work and the
-            affairs of the Party.
-
-        </subclause-letters>
-
-    4.  If a member of the Constitutional Votes Committee is no longer
-        eligible to be appointed to that office, State Council must
-        declare that they are removed from office.
-
-    5.  A decision of the Constitutional Votes Committee overrides a
-        decision of State Council to the extent of any inconsistency.
-
-    6.  Each State Councillor must:
-
-        <details><summary>Drafting Panel commentary</summary>
-        Clause 18(6) requires State Councillors to make themselves aware of the requirements
-        of party governance and to prioritise their State Council work over other party
-        responsibilities.
-        </details>
-
-        <subclause-letters>
-
-        1.  become familiar with the Act, this Constitution, the party
-            handbook and the party archive;
-
-        2.  conscientiously participate in the work of State Council;
-            and
-
-        3.  give priority to their responsibilities as a State
-            Councillor over any other party responsibilities.
-
-        </subclause-letters>
+    (5)	A decision of the Constitutional Votes Committee overrides a decision of State Council to the extent of any inconsistency.
+    
+    (6)	Each State Councillor must:
+    <subclause-letters>
+        (a)	become familiar with the Act, this Constitution, the party handbook and the party archive;
+        (b)	conscientiously participate in the work of State Council; and
+        (c)	give priority to their responsibilities as a State Councillor over any other party responsibilities.
 
 19. ## Delegation
 
