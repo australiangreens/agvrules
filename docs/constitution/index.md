@@ -14,4 +14,4 @@ ABN 11 616 265 905
 *Associations Incorporation Reform Act 2012* registration number
 A0027546F
 
-Suite 1.05/50 Queen Street, Melbourne
+Suite 1.05/50 Queen Street, Melbourne VIC 3000
