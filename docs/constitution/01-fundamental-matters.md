@@ -65,132 +65,46 @@ The purposes of the Party are:
 
 4. ## Decision-making
 
-    <details><summary>Drafting Panel commentary</summary>
+    (1)	Each decision of the Party must be made in pursuit of the purposes of the Party.
+    
+    (2)	Each party meeting must be conducted in accordance with the following principles:
+        (a)	participants should come with a commitment to reaching consensus and in a spirit of collaboration and collective responsibility;
+        (b)	meaningful participation should be fostered by all participants;
+        (c)	the expression of diverse views should be encouraged;
+        (d)	enough time should be devoted to allow su+cient deliberation; and
+        (e)	a properly made decision should be accepted by all.
 
-    Clause 4 introduces a new requirement that all decisions must be made in pursuit of
-    the party’s purposes (clause 4(1)). The clause sets out, in a more mandatory way than
-    in our current Constitution, the principles of consensus decision-making (clause 4(2) &
-    (4)). This clause also sets out new principles for the delegation of decision-making
-    (clause 4(3)).
+    (3)	Each decision to delegate power must be made by balancing the following principles:
+        (a)	the meaningful participation of members is valuable for its own sake;
+        (b)	a decision with local eGects should be made at the local level;
+        (c)	decisions should be high-quality, strategic and eGective; and
+        (d)	decisions should be made e+ciently.
 
-    </details>
-
-    1.  Each decision of the Party must be made in pursuit of the
-        purposes of the Party.
-
-    2.  Each party meeting must be conducted in accordance with the
-        following principles:
-
-        <subclause-letters>
-
-        1.  participants should come with a commitment to reaching
-            consensus and in a spirit of collaboration and collective
-            responsibility;
-
-        2.  meaningful participation should be fostered by all
-            participants;
-
-        3.  the expression of diverse views should be encouraged;
-
-        4.  enough time should be devoted to allow sufficient
-            deliberation; and
-
-        5.  a properly made decision should be accepted by all.
-
-        </subclause-letters>
-
-    3.  Each decision to delegate power must be made by balancing the
-        following principles:
-
-        <subclause-letters>
-
-        1.  the meaningful participation of members is valuable for its
-            own sake;
-
-        2.  a decision with local effects should be made at the local
-            level;
-
-        3.  decisions should be high-quality, strategic and effective;
-            and
-
-        4.  decisions should be made efficiently.
-
-        </subclause-letters>
-
-    4.  A substantive proposal may only be put to a vote if every effort
-        has been made to reach consensus and the decision should not be
-        deferred.
+        (4)	A substantive proposal may only be put to a vote if every eGort has been made to reach consensus and the decision should not be deferred.
 
 5. ## Openness
 
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 5 sets out the entitlement of members to attend meetings, establishes a new requirement that meetings be accessible to all members and that members have a reasonable right to communicate with all other members. This clause also provides for members’ forums to be held twice a year to discuss issues raised by members (clause 5(4)).
-    </details>
+    (1)	Each member is entitled to attend the meetings of each party body, except where:
+        (a)	the decision that establishes the party body provides otherwise;
+        (b)	the party body limits that entitlement by a procedural proposal; or
+        (c)	in exceptional circumstances, State Council temporarily limits the entitlement of a particular member.
 
-    1.  Each member is entitled to attend the meetings of each party
-        body, except where:
+    (2)	Party meetings and events must be made as accessible to members as reasonably practicable, including by providing, where appropriate, a range of times and locations and an option to attend virtually.
 
-        <subclause-letters>
+    (3)	Each member is entitled, to a reasonable extent, to communicate with the whole membership about party matters through party communications and publications.
 
-        1.  the decision that establishes the party body provides
-            otherwise;
-
-        2.  the party body limits that entitlement by a procedural
-            proposal; or
-
-        3.  in exceptional circumstances, State Council temporarily
-            limits the entitlement of a particular member.
-
-        </subclause-letters>
-
-    2.  Party meetings and events must be made as accessible to members
-        as reasonably practicable, including by providing, where
-        appropriate, a range of times and locations and an option to
-        attend virtually.
-
-    3.  Each member is entitled, to a reasonable extent, to communicate
-        with the whole membership about party matters through party
-        communications and publications.
-
-    4.  At least twice each year, State Council must convene a members’
-        forum, to which each member is invited, at which:
-
-        <subclause-letters>
-
-        1.  it reports on its work and the affairs of the Party;
-
-        2.  it seeks members’ views about important matters, including
-            party governance, the party budget, election campaign
-            strategy, and the Australian Greens;
-
-        3.  it answers members’ questions; and
-
-        4.  issues raised by members are discussed.
-
-        </subclause-letters>
+    (4)	At least twice each year, State Council must convene a members’ forum, to which each member is invited, at which:
+        (a)	it reports on its work and the aGairs of the Party;
+        (b)	it seeks members’ views about important matters, including party governance, the party budget, election campaign strategy, and the Australian Greens;
+        (c)	it answers members’ questions; and
+        (d)	issues raised by members are discussed.
 
 6. ## Affirmative action
 
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 6 establishes an additional strengthened mandatory obligation on the Party to implement affirmative action measures for underrepresented groups. However, this does not affect the election process for the State Council.
-    </details>
+    (1)	The Party must:
+        (a)	implement a+rmative action to achieve equity for underrepresented groups; and
+        (b)	take special measures to increase representation for underrepresented groups across the overall membership of the following groups: State Councillors, members of senior party bodies, candidates for public o+ce and members who hold public o+ce.
 
-    1.  The Party must:
-
-        <subclause-letters>
-
-        1.  implement affirmative action to achieve equity for
-            underrepresented groups; and
-
-        2.  take special measures to increase representation for
-            underrepresented groups across the overall membership of the
-            following groups: State Councillors, members of senior party
-            bodies, candidates for public office and members who hold
-            public office.
-
-        </subclause-letters>
-
-    2.  A special measure must not be inconsistent with Schedules 6, 7 and 8.
-
+    (2)	A special measure must not be inconsistent with Schedules;6, 7 and 8.
 
 
