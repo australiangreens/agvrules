@@ -18,9 +18,9 @@ original:
     (3)	In carrying out its responsibilities, State Council must:
         <subclause-letters>
         (a)	ensure that the Party has a party strategy;
-        (b)	establish party o+ces and party bodies to assist it to implement the strategy;
+        (b)	establish party offices and party bodies to assist it to implement the strategy;
         (c)	oversee the implementation of the strategy; and
-        (d)	report regularly to each member about its work and the aGairs of the Party.</subclause-letters>
+        (d)	report regularly to each member about its work and the affairs of the Party.</subclause-letters>
 
     (4)	If a member of the Constitutional Votes Committee is no longer eligible to be appointed to that office, State Council must declare that they are removed from office.
 
