@@ -5,7 +5,9 @@ original:
     pages: [3]
 ---
 
-The Australian Greens Victoria acknowledges the First Nations peoples as the custodians of Country upon which we reside upon. We pay our respects to their elders past and present and acknowledges their connection to land, sky, culture, community, tradition and song. We further acknowlege that this land is stolen land and sovereignty over Country was never ceded. We commit to actively working alongside First Nations people for Truth, Treaty and Just as well as reconciliation for all.
-
+The Australian Greens Victoria: 
+Acknowledges First Nations peoples as the custodians of Country.
+Pays respects to their Elders past and present.
+Acknowledges their connections to land, sea, sky, culture, community, tradition and song. Acknowledges that this land is stolen land and sovereignty over Country was never ceded. Commits to actively working alongside First Nations people for Treaty and justice.
 
 

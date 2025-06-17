@@ -1,192 +1,67 @@
 ---
 title: "Part 1: Fundamental matters"
 original:
-    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    file: "AGV Constitution 2023-09-18_0.pdf"
     pages: [3,4,5]
 ---
-
-:::effectivefrom Timing
-The provisions of this part of the Constitution come into force
-on the transition date (1 January 2023) apart from clause 4
-:::
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-<u>At a glance</u>
-
-* Sets out our purposes (clause 1).
-
-* Sets out our principles about (clause 2 to 7):
-
-    * how we make policies and the party strategy,
-
-    * members in public office,
-
-    * how we make decisions,
-
-    * the openness of our Party, and
-
-    * affirmative action.
-
-* Sets out the hierarchy of policies (including Australian Greens policies and local
-  policies made by branches) (clause 2).
-
-<u>Summary and Explanation</u>
-
-Clause 1 on purposes is straightforward.
-
-Clause 2 on policy requires that party policy and the party strategy generally only be
-made by members through a participatory process, by consensus (or a 75% vote) of
-members participating. State Council can make a policy or the party strategy in urgent
-circumstances. The clause also reflects our existing hierarchy of national, state and
-local policies.
-
-Clause 3 is about members in public office and keeps the existing arrangements. It
-retains the conscience vote, requires members in public office at a particular level to
-attempt to reach consensus with each other, and requires members in public office to
-engage with branches and other party bodies wanting such engagement.
-
-Clause 4 introduces a new requirement that all decisions must be made in pursuit of
-the party’s purposes (clause 4(1)). The clause sets out, in a more mandatory way than
-in our current Constitution, the principles of consensus decision-making (clause 4(2) &
-(4)). This clause also sets out new principles for the delegation of decision-making
-(clause 4(3)).
-
-Clause 5 sets out the entitlement of members to attend meetings, establishes a new
-requirement that meetings be accessible to all members and that members have a
-reasonable right to communicate with all other members. This clause also provides for
-members’ forums to be held twice a year to discuss issues raised by members
-(clause 5(4)).
-
-Clause 6 establishes an additional strengthened mandatory obligation on the Party to
-implement affirmative action measures for underrepresented groups. However, this
-does not affect the election process for the State Council.
-
-</details>
 
 
 1. ## Purposes
 
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 1 on purposes is straightforward.
-    </details>
-
-    The purposes of the Party are:
+The purposes of the Party are:
 
     <subclause-letters>
 
-    1.  to further a vision of the world characterised by peace, social
-    justice, grassroots participatory democracy and ecological
-    sustainability;
-
-    2.  to make policies that are consistent with the Charter;
-
-    3.  to win support for its policies;
-
-    4.  to see its policies implemented;
-
-    5.  to have its members elected to public office;
-
-    6.  to be a member body of the Australian Greens; and
-
-    7.  to cooperate with like-minded people and organisations.
+    (a)	to further a vision of the world characterised by peace, social justice, grassroots participatory democracy and ecological sustainability;
+    (b)	to make policies that are consistent with the Charter;
+    (c)	to win support for its policies;
+    (d)	to see its policies implemented;
+    (e)	to have its members elected to public o+ce;
+    (f)	to be a member body of the Australian Greens; and
+    (g)	to cooperate with like-minded people and organisations.
 
     </subclause-letters>
 
 2. ## Policies and party strategy
 
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 2 on policy requires that party policy and the party strategy generally only be made by members through a participatory process, by consensus (or a 75% vote) of members participating. State Council can make a policy or the party strategy in urgent circumstances. The clause also reflects our existing hierarchy of national, state and local policies.
-    </details>
+    (1)	Each state policy and the party strategy may only be made, amended or repealed by the membership, through participatory and deliberative processes, with the advice of experts and of members who hold public o+ce.
+    
+    (2)	A proposal to make, amend or repeal a state policy or the party strategy that is put to a vote is passed if at least 75% of the members in attendance who vote on the proposal vote in favour and State Council rati6es it.
 
-    1.  Each state policy and the party strategy may only be made,
-        amended or repealed by the membership, through participatory and
-        deliberative processes, with the advice of experts and of
-        members who hold public office.
+    (3)	If State Council does not ratify such a proposal at its next meeting, it must reopen the process that led to it.
+    
+    (4)	State Council may make, amend or repeal a state policy or the party strategy in urgent circumstances.
 
-    2.  A proposal to make, amend or repeal a state policy or the party
-        strategy that is put to a vote is passed if at least 75% of the
-        members in attendance who vote on the proposal vote in favour
-        and State Council ratifies it.
+    (5)	The policies of the Party are:
+        (a)	the policies made by the Australian Greens (national policies);
+        (b)	the policies made by the Party except local policies (state policies); and
+        (c)	the policies made by branches (local policies).
+    
+    (6)	State policies must be consistent with national policies.
+    
+    (7)	Local policies must be consistent with state and national policies.
 
-    3.  If State Council does not ratify such a proposal at its next
-        meeting, it must reopen the process that led to it.
-
-    4.  State Council may make, amend or repeal a state policy or the
-        party strategy in urgent circumstances. 
-
-    5.  The policies of the Party are:
-
-        <subclause-letters>
-
-        1.  the policies made by the Australian Greens (***national
-            policies***);
-
-        2.  the policies made by the Party except local policies
-            (***state policies***); and
-
-        3.  the policies made by branches (***local policies***).
-
-        </subclause-letters>
-
-    6.  State policies must be consistent with national policies.
-
-    7.  Local policies must be consistent with state and national
-        policies.
-
-    8.  Each local policy must apply only within the branch area of the
-        branch that makes it.
+    (8)	Each local policy must apply only within the branch area of the branch that makes it.
 
 3. ## Public office
 
-    <details><summary>Drafting Panel commentary</summary>
-    Clause 3 is about members in public office and keeps the existing arrangements. It retains the conscience vote, requires members in public office at a particular level to attempt to reach consensus with each other, and requires members in public office to engage with branches and other party bodies wanting such engagement.
-    </details>
+    (1)	A member may only be a candidate for public o+ce, or hold public o+ce, with the endorsement or permission of the Party.
+    
+    (2)	The Party may only give such endorsement or permission to a member.
+    
+    (3)	The preselection of a candidate for public o+ce in an electorate must, unless circumstances justify otherwise, be done by a ballot of the members living in:
+        (a)	for an electorate other than a local government ward—that electorate; and
+        (b)	for a local government ward—the whole local government area.
 
-    1.  A member may only be a candidate for public office, or hold
-        public office, with the endorsement or permission of the Party.
+    (4)	The eligibility requirements to vote in a preselection are in Schedule;8.
 
-    2.  The Party may only give such endorsement or permission to a
-        member.
+    (5)	Each member who holds public o+ce must advocate and vote for the implementation of the policies of the Party, except that, if they have a conscientious objection to a policy, they may vote in accordance with their conscience.
 
-    3.  The preselection of a candidate for public office in an
-        electorate must, unless circumstances justify otherwise, be done
-        by a ballot of the members living in:
-
-        <subclause-letters>
-
-        1.  for an electorate other than a local government ward—that
-            electorate; and
-
-        2.  for a local government ward—the whole local government area.
-
-        </subclause-letters>
-
-    4.  The eligibility requirements to vote in a preselection are in
-        Schedule 8.
-
-    5.  Each member who holds public office must advocate and vote for
-        the implementation of the policies of the Party, except that, if
-        they have a conscientious objection to a policy, they may vote
-        in accordance with their conscience.
-
-    6.  Where there are two or more members who hold public office in a
-        particular council or parliament, they must make every effort to
-        reach consensus on each substantive matter before them.
-
-    7.  Each member who holds public office must, to a reasonable
-        extent, engage with:
-
-        <subclause-letters>
-
-        1.  each branch whose branch area overlaps with their
-            electorate; and
-
-        2.  any party body that seeks their engagement.
-
-        </subclause-letters>
+    (6)	Where there are two or more members who hold public o+ce in a particular council or parliament, they must make every eGort to reach consensus on each substantive matter before them.
+    
+    (7)	Each member who holds public o+ce must, to a reasonable extent, engage with:
+        (a)	each branch whose branch area overlaps with their electorate; and
+        (b)	any party body that seeks their engagement.
 
 4. ## Decision-making
 
