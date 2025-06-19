@@ -267,7 +267,7 @@ const webpackPlugin = require('./webpackplugin');
             ],
           },
         ],
-        copyright: `Authorised by governance nerds everywhere, 1/45 William St, Melbourne, VIC 3000. Built with Docusaurus.`,
+        copyright: `Authorised by governance nerds everywhere, Suite 1.05 50 Queen St, Melbourne VIC 3000. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

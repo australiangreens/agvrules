@@ -1,28 +1,9 @@
 ---
 title: "Schedule 1: Branch meeting procedure"
 original:
-    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    file: "AGV Constitution 2024-03-06.pdf"
     pages: [14]
 ---
-
-:::effectivefrom Timing
-The provisions of this schedule come into force
-on the transition date (1 January 2023)
-:::
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-Schedule 1 sets out the meeting procedure for Branches.
-
-The quorum for Branches with less than 15 members is set at 4.
-
-Branches can set their own procedures but State Council has the power to revoke
-branch-decided procedures in exceptional circumstances (e.g. if a branch decided that
-a branch office bearer would have an unlimited term).
-
-</details>
 
 1. ## Convening
 

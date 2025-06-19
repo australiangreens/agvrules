@@ -1,26 +1,13 @@
 ---
 title: "Schedule 8: Eligibility requirements"
 original:
-    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    file: "AGV Constitution 2024-03-06.pdf"
     pages: [26,27]
 ---
 
-:::effectivefrom Timing
-The provisions of this schedule come into force
-immediately except for items 1, 2, and 3
-:::
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-See boxes under Parts 3, 4 and 5.
-
-</details>
-
 1. ## Membership
 
-    <ClauseAnnotation effectivefrom="on 1 February 2022" /> A person is eligible to be admitted as a member if they:
+    A person is eligible to be admitted as a member if they:
 
     1.  are a person, not a corporation;
 
@@ -34,20 +21,11 @@ See boxes under Parts 3, 4 and 5.
 
 2. ## Voting in a preselection
 
-    <ClauseAnnotation effectivefrom="on 1 February 2022" /> A member is eligible to vote in a preselection if they have been a
-    member of the Party or another Greens party for the last year.
+    A member is eligible to vote in a preselection if they have been a member of the Party or another Greens party for the last three months.
 
 3. ## Voting in a State Council election
 
-    <ClauseAnnotation effectivefrom="on 1 February 2022" /> A member is eligible to vote in a State Council election if, when the
-    roll of voters is closed:
-
-    1.  they have been a member of the Party or another Greens party for the
-    last year; and
-
-    
-
-    2.  in the case of a member who is not a candidate, and a scheduled election in an odd year or a by-election—they have attended an election deliberation session.
+    A member is eligible to vote in a State Council election if, when the roll of voters is closed, they have been a member of the Party or another Greens party for the last three months.
 
 4. ## State Councillor elected under Schedule 6
 
@@ -65,15 +43,7 @@ See boxes under Parts 3, 4 and 5.
 
         </subclause-letters>
 
-    2.  A member is eligible for election as a State Councillor if they:
-
-        <subclause-letters>
-
-        1.  have been a member for the past two years, ignoring any gap of less than 30 days; and
-
-        2.  live in Victoria.
-
-        </subclause-letters>
+    2.  A member is eligible for election as a State Councillor if they live in Victoria.
 
     3.  A member is not eligible for election as a State Councillor if
         they:

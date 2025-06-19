@@ -1,12 +1,33 @@
 ---
 title: "Part 2: Branches"
 original:
+    file: "AGV Constitution 2024-03-06.pdf"
+=======
     file: "AGV Constitution 2023-09-18_0.pdf"
     pages: [5,6,7]
 ---
 
 7. ## Constitution
 
+
+    1.  State Council may create or dissolve a branch.
+
+    2.  Each branch corresponds with a branch area.
+
+    3.  State Council may, with the agreement of any affected
+        branches, define a branch area.
+
+    4.  A branch area must:
+
+        <subclause-letters>
+
+        1.  be defined only by geographical boundaries;
+
+        2.  not overlap with another branch area; and
+
+        3.  correspond to one or more local government areas, except
+            where exceptional circumstances justify otherwise.
+=======
     (1)	State Council may create or dissolve a branch.
     
     (2)	Each branch corresponds with a branch area.
@@ -20,6 +41,10 @@ original:
 
 8. ## Branch membership
 
+    1.  Each member is a member of one branch.
+
+    2.  State Council must make the procedure by which a member:
+=======
     (1)	Each member is a member of one branch.
 
     (2)	State Council must make the procedure by which a member:
@@ -30,6 +55,10 @@ original:
 
 9. ## Responsibilities and powers
 
+    1.  Each branch is responsible for:
+
+        <subclause-letters>
+=======
     (1)	Each branch is responsible for:
         (a)	providing a forum for its members to discuss politics and party matters;
         (b)	engaging the community that lives within its branch area; and
@@ -60,6 +89,33 @@ The branch meeting procedure is in Schedule l.
 
 12. ## Branch question to State Council
 
+    1.  A branch may submit a question about a party matter to State
+        Council.
+
+    2.  Within 60 days of a question being submitted, State Council must
+        answer it in writing.
+
+13. ## Branch proposal to State Council
+
+    1.  A branch may submit to State Council:
+
+        <subclause-letters>
+
+        1.  a reconsideration proposal; or
+
+        2.  a substantive proposal.
+
+        </subclause-letters>
+
+    2.  A reconsideration proposal must be submitted to State Council no
+        later than 60 days after the resolution to which it relates was
+        made.
+
+    3.  Within 60 days of a proposal being submitted, State Council
+        must:
+
+        <subclause-letters>
+=======
     (1)	A branch may submit a question about a party matter to State Council.
     
     (2)	Within 60;days of a question being submitted, State Council must answer it in writing.
@@ -78,6 +134,9 @@ The branch meeting procedure is in Schedule l.
 
 14. ## Joint branch proposal to State Council
 
+    A joint branch proposal to State Council may be submitted in accordance
+    with Schedule 2.
+=======
 A joint branch proposal to State Council may be submitted in accordance with Schedule;2.
 
 15. ## Members’ direct decision-making
@@ -93,6 +152,16 @@ A joint branch proposal to State Council may be submitted in accordance with Sch
 
 16. ## Suspension
 
+    1.  In exceptional circumstances, State Council may suspend a branch
+    for up to 60 days.
+
+    2.  A branch that is suspended may only convene a branch meeting in
+        order to hold an election deliberation session or participate in
+        a members’ plebiscite.
+
+
+
+=======
     (1)	In exceptional circumstances, State Council may suspend a branch for up to 60;days.
     
     (2)	A branch that is suspended may only convene a branch meeting in order to hold an election deliberation session or participate in a members’ plebiscite.

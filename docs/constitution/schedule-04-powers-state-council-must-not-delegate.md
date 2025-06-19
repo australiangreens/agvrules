@@ -1,23 +1,9 @@
 ---
 title: "Schedule 4: Powers State Council must not delegate"
 original:
-    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
+    file: "AGV Constitution 2024-03-06.pdf"
     pages: [19]
 ---
-
-:::effectivefrom Timing
-The provisions of this schedule come into force
-on 1 February 2022
-:::
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-See box under [Part 3](./03-state-council.md). Generally, the State Council can delegate its powers. This is a
-list of powers it can only exercise itself.
-
-</details>
 
 <table>
 <colgroup>

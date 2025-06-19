@@ -1,48 +1,9 @@
 ---
 title: "Part 4: Constitutional Votes Committee"
 original:
-    file: "AGV Constitution (2023-01-02) after end of transition.pdf"
-    pages: [8,9]
+    file: "AGV Constitution 2024-03-06.pdf"
+    pages: [8,9,10]
 ---
-
-:::effectivefrom Timing
-The provisions of this part of the Constitution come into force
-on 1 February 2022
-:::
-
-<details>
-
-<summary>Drafting Panel commentary</summary>
-
-<u>At a glance</u>
-
-A 3-member Constitutional Votes Committee is responsible for the votes required by
-the Constitution, which are State Council elections and members’ plebiscites.
-
-This Part sets out the Constitutional Votes Committee’s responsibilities and powers and
-provides for appointment and vacation of office of members of the Constitutional Votes
-Committee.
-
-[Schedule 8](./schedule-08-eligibility-requirements.md) sets out eligibility requirements for members of the Constitutional Votes
-Committee.
-
-<u>Summary and Explanation</u>
-
-Part 4 creates the Constitutional Votes Committee (**Committee**). The general functions
-of the 3-member Committee are to act like a returning officer for State Council elections
-and for the process leading to and including members’ plebiscites. It is separate from
-the State Council and responsible for establishing and enforcing rules and procedures
-about the conduct of elections and votes under the Constitution. The independence of
-the Committee is underlined by the fact that it is the only body whose decisions
-override those of State Council (clause 18(5)).
-
-The Committee is not a general-purpose returning officer for other elections or
-preselections; it can only do the tasks given to it by the Constitution.
-
-The procedures for the Committee and for what happens if the Committee has a
-vacancy are set out in part 4. The eligibility requirements are set out in [Schedule 8](./schedule-08-eligibility-requirements.md).
-
-</details>
 
 23. ## Definition
 
