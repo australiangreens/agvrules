@@ -58,8 +58,26 @@ function generateSlug(headline, links = []) {
   return slug
 }
 
-export default function bylawLinksPlugin({
-} = {}) {
+function processListItem(
+  node,
+  id,
+  links
+) {
+  const slug = generateSlug(id, links)
+  node.children.unshift({
+    type: 'html',
+    value: `<a aria-hidden="true" tabindex="-1" class="anchor anchor-ref" id="${slug}"></a>`,
+  })
+  node.children.push({
+    type: 'html',
+    value: `<a class="hash-link" href="#${slug}" title="Direct link"></a>`
+  })
+  return node
+}
+
+
+export default function bylawLinksPlugin({} = {}) {
+  
   return function transformer(tree, file) {
     const value = String(file)
     const isSchedule = (file.history[0].indexOf('constitution/schedule') !== -1);
@@ -69,11 +87,14 @@ export default function bylawLinksPlugin({
 
     function enumerateChild(prefix, letters, child, i) {
       if (processed.includes(child)) { return }
+      // Get the reference
       let marker = Number(
         value
           .slice(
-            position.start(child).offset,
-            position.start(child.children[0]).offset
+            child.position.start.offset,
+            child.children[0].position.start.offset
+            // position.start(child).offset,
+            // position.start(child.children[0]).offset
           )
           .replace(/[\s.)]/g, '')
           .replace(/\[[x ]?]\s*$/i, '')
@@ -81,6 +102,7 @@ export default function bylawLinksPlugin({
       if (letters) {
         marker = lettersOfTheAlphabet[marker-1];
       }
+
       var idx = i + 1;
       child.id = prefix ? prefix + '.' + marker : marker.toString();
       let childHasLetters = false;
@@ -113,7 +135,7 @@ export default function bylawLinksPlugin({
           clauseAnnotations.push('days');
         }
       }
-      if (child.children && is(child.children[0], 'paragraph')) {
+      if (child.children && child.children[0].type == 'paragraph') {
         if (clauseAnnotations.length > 0) {
           child.children[0].children.unshift({
             type: 'jsx',
@@ -121,12 +143,14 @@ export default function bylawLinksPlugin({
           });
         }
         child.children[0].children.unshift({
-          type: 'html',
-          value: `<a aria-hidden="true" tabindex="-1" class="anchor anchor-ref" id="${slug}"></a>`,
+          // type: 'html',
+          type: 'jsx',
+          value: `<a aria-hidden="true" tabindex="-1" className="anchor anchor-ref" id="${slug}"></a>`,
         })
         child.children[0].children.push({
-          type: 'html',
-          value: `<a class="hash-link" href="#${slug}" title="Direct link"></a>`
+          // type: 'html',
+          type: 'jsx',
+          value: `<a className="hash-link" href="#${slug}" title="Direct link"></a>`
         })
       } else {
         if (clauseAnnotations.length > 0) {
@@ -136,18 +160,20 @@ export default function bylawLinksPlugin({
           });
         }
         child.children.unshift({
-          type: 'html',
-          value: `<a aria-hidden="true" tabindex="-1" class="anchor anchor-ref" id="${slug}"></a>`,
+          // type: 'html',
+          type: 'jsx',
+          value: `<a aria-hidden="true" tabindex="-1" className="anchor anchor-ref" id="${slug}"></a>`,
         })
         child.children.push({
-          type: 'html',
-          value: `<a class="hash-link" href="#${slug}" title="Direct link"></a>`
+          // type: 'html',
+          type: 'jsx',
+          value: `<a className="hash-link" href="#${slug}" title="Direct link"></a>`
         })
       }
       processed.push(child);
     }
-  
-    visit(tree, 'list', function (node) {
+
+    visit(tree, 'list', function(node) {
       node.children.forEach(enumerateChild.bind(null, '', false));
       return true;
     });
@@ -177,21 +203,4 @@ export default function bylawLinksPlugin({
     //   )
     // })
   }
-}
-
-function processListItem(
-  node,
-  id,
-  links
-) {
-  const slug = generateSlug(id, links)
-  node.children.unshift({
-    type: 'html',
-    value: `<a aria-hidden="true" tabindex="-1" class="anchor anchor-ref" id="${slug}"></a>`,
-  })
-  node.children.push({
-    type: 'html',
-    value: `<a class="hash-link" href="#${slug}" title="Direct link"></a>`
-  })
-  return node
 }

@@ -1,12 +1,11 @@
 import {themes} from 'prism-react-renderer';
-// import remarkGfm from "remark-gfm";
+import remarkGfm from "remark-gfm";
 // import rehypeRaw from "rehype-raw";
 // import {nodeTypes} from '@mdx-js/mdx'
 
 // import remarkFootnotes from 'remark-footnotes';
-// import remarkAdmonitions from 'remark-admonitions';
 // import definitionsPlugin from './definitions.js';
-// import bylawLinksPlugin from './bylawlinksplugin.js';
+import bylawLinksPlugin from './plugins/bylawlinksplugin.js';
 // import highlightPlugin from './highlight.js';
 // import subnumberingPlugin from './subnumbering.js';
 // import webpackPlugin from './webpackplugin';
@@ -48,19 +47,8 @@ export default {
             // [rehypeRaw, {passThrough: nodeTypes}],
           ],
           remarkPlugins: [
-            // [remarkGfm, { }],
-            // [remarkAdmonitions, {
-            //   tag: ":::",
-            //   icons: "emoji",
-            //   infima: true,
-            //   customTypes: {
-            //     "effectivefrom": {
-            //       ifmClass: 'warning',
-            //       emoji: '⌛'
-            //     }
-            //   }
-            // }],
-            // [bylawLinksPlugin, {}],
+            [remarkGfm, { }],
+            [bylawLinksPlugin, {}],
             // [definitionsPlugin, { definitions: {
             //   "AA": "Affirmative Action",
             //   "AEC": "Australian Electoral Commission",
