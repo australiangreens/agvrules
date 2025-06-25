@@ -143,13 +143,13 @@ export default function bylawLinksPlugin({} = {}) {
           });
         }
         child.children[0].children.unshift({
-          // type: 'html',
-          type: 'jsx',
+          type: 'html',
+          // type: 'jsx',
           value: `<a aria-hidden="true" tabindex="-1" className="anchor anchor-ref" id="${slug}"></a>`,
         })
         child.children[0].children.push({
-          // type: 'html',
-          type: 'jsx',
+          type: 'html',
+          // type: 'jsx',
           value: `<a className="hash-link" href="#${slug}" title="Direct link"></a>`
         })
       } else {
@@ -160,13 +160,13 @@ export default function bylawLinksPlugin({} = {}) {
           });
         }
         child.children.unshift({
-          // type: 'html',
-          type: 'jsx',
+          type: 'html',
+          // type: 'jsx',
           value: `<a aria-hidden="true" tabindex="-1" className="anchor anchor-ref" id="${slug}"></a>`,
         })
         child.children.push({
-          // type: 'html',
-          type: 'jsx',
+          type: 'html',
+          // type: 'jsx',
           value: `<a className="hash-link" href="#${slug}" title="Direct link"></a>`
         })
       }

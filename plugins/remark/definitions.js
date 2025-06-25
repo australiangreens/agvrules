@@ -63,7 +63,7 @@ export default function definitionsPlugin({
                 value: `<abbr>${value}<span class="abbr-info">${acronymTitle}</span></abbr>`,
               }
             : {
-                type: 'text',
+                type: 'html',
                 value,
               };
         });
