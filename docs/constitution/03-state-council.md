@@ -55,27 +55,6 @@ original:
             Councillor over any other party responsibilities.
 
         </subclause-letters>
-=======
-    (1)	State Council is responsible for the management of the Party.
-    
-    (2)	State Council may exercise all of the powers of the Party except those of the Constitutional Votes Committee.
-    
-    (3)	In carrying out its responsibilities, State Council must:
-        <subclause-letters>
-        (a)	ensure that the Party has a party strategy;
-        (b)	establish party offices and party bodies to assist it to implement the strategy;
-        (c)	oversee the implementation of the strategy; and
-        (d)	report regularly to each member about its work and the affairs of the Party.</subclause-letters>
-
-    (4)	If a member of the Constitutional Votes Committee is no longer eligible to be appointed to that office, State Council must declare that they are removed from office.
-
-    (5)	A decision of the Constitutional Votes Committee overrides a decision of State Council to the extent of any inconsistency.
-    
-    (6)	Each State Councillor must:
-    <subclause-letters>
-        (a)	become familiar with the Act, this Constitution, the party handbook and the party archive;
-        (b)	conscientiously participate in the work of State Council; and
-        (c)	give priority to their responsibilities as a State Councillor over any other party responsibilities.
 
 19. ## Delegation
 
@@ -96,7 +75,7 @@ original:
 
     1.  Fourteen State Councillors are elected under Schedule 6.
 
-    2. One State Councillor is appointed under Schedule 7.
+    2.  One State Councillor is appointed under Schedule 7.
 
     3.  The eligibility requirements for election or appointment as a State Councillor
         are in Schedule 8.
