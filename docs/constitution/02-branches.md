@@ -33,7 +33,7 @@ original:
     1.  Each member is a member of one branch.
 
     2.  State Council must make the procedure by which a member:
-    
+
         <subclause-letters>
 
         1.  upon being admitted as a member, is made a member of a branch; and
@@ -107,19 +107,25 @@ The branch meeting procedure is in Schedule l.
 13. ## Branch proposal to State Council
 
     1.  A branch may submit to State Council:
+
         <subclause-letters>
+
         1.  a reconsideration proposal; or
 
         2.  a substantive proposal.
+
         </subclause-letters>
 
     2.  A reconsideration proposal must be submitted to State Council no later than 60;days after the resolution to which it relates was made.
 
     3.  Within 60 days of a proposal being submitted, State Council must:
+
         <subclause-letters>
+
         1. decide whether to pass the proposal; and
 
         2. if the proposal is not passed—explain in writing why it did not pass.
+        
         </subclause-letters>
 
 14. ## Joint branch proposal to State Council
@@ -137,10 +143,15 @@ The branch meeting procedure is in Schedule l.
 
     3.  For one year after a members’ resolution is made, it must not be 
         contradicted or undermined, except where State Council decides that:
+
         <subclause-letters>
+
         1.  it is illegal, or has involved or will involve the Party in illegality;
+
         2.  it will cause the Party to become insolvent or has created or will create a substantial risk that the Party will become insolvent; or
+
         3.  exceptional circumstances justify otherwise.
+        
         </subclause-letters>
 
 16. ## Suspension

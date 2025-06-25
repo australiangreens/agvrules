@@ -135,6 +135,8 @@ original:
             and
 
         4.  decisions should be made efficiently.
+        
+        </subclause-letters>
 
     4.  A substantive proposal may only be put to a vote if every effor has been
         made to reach consensus and the decision should not be deferred.
