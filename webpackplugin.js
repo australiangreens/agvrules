@@ -1,4 +1,4 @@
-module.exports = function(context, options) {
+export default function(context, options) {
   return {
     name: 'webpack-overrides',
     configureWebpack: function (config, isServer, utils) {

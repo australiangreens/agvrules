@@ -1,8 +1,8 @@
-const map = require('unist-util-map');
-const visit = require('unist-util-visit');
-const is = require('unist-util-is');
-const position = require('unist-util-position');
-const fs = require('fs');
+import map from 'unist-util-map';
+import visit from 'unist-util-visit';
+import is from 'unist-util-is';
+import position from 'unist-util-position';
+import fs from 'fs';
 
 const powersStateCouncilMustNotDelegate = fs.readFileSync('docs/constitution/schedule-04-powers-state-council-must-not-delegate.md', 'utf-8').match(/<td>.*?<\/td>/g).map((cell) => {
   const clean = cell.replace('<td>', '').replace('</td>', '');
@@ -58,7 +58,7 @@ function generateSlug(headline, links = []) {
   return slug
 }
 
-module.exports = function bylawLinksPlugin({
+export default function bylawLinksPlugin({
 } = {}) {
   return function transformer(tree, file) {
     const value = String(file)

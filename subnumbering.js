@@ -1,8 +1,8 @@
-module.exports = function (context, options) {
+export default function (context, options) {
 
   let counterCss = '';
 
-  for (i = 0; i < 100; i++) {
+  for (let i = 0; i < 100; i++) {
     counterCss += `
 ol[start="${i}"] {
   counter-reset: item ${i-1};

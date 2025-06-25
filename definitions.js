@@ -1,6 +1,6 @@
-const visit = require('unist-util-visit');
-const map = require('unist-util-map');
-const is = require('unist-util-is');
+import visit from 'unist-util-visit';
+import map from 'unist-util-map';
+import is from 'unist-util-is';
 
 const newConstitutionDefinitions = {
   "Australian Greens Victoria": undefined,
@@ -42,7 +42,7 @@ const newConstitutionDefinitions = {
   "financial year": "The financial year of the Party is the year ending on 30 June.",
 }
 
-module.exports = function definitionsPlugin({
+export default function definitionsPlugin({
   definitions
 } = {}) {
   return function transformer(tree, file) {
